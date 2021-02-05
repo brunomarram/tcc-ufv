@@ -1,0 +1,2 @@
+Dados coletados sobre a COVID-19:
+https://brasil.io/dataset/covid19/boletim/?search=RJ&date=&state=

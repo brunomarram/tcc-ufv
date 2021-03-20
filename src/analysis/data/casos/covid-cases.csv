@@ -1,0 +1,2654 @@
+cidade,Data,casos
+São Paulo,2020-02-25,1
+São Paulo,2020-02-26,0
+São Paulo,2020-02-27,0
+São Paulo,2020-02-28,1
+São Paulo,2020-02-29,0
+São Paulo,2020-03-01,0
+São Paulo,2020-03-02,0
+São Paulo,2020-03-03,0
+São Paulo,2020-03-04,1
+São Paulo,2020-03-05,3
+Rio de Janeiro,2020-03-06,1
+São Paulo,2020-03-06,0
+Rio de Janeiro,2020-03-07,0
+São Paulo,2020-03-07,6
+Rio de Janeiro,2020-03-08,1
+São Paulo,2020-03-08,3
+Rio de Janeiro,2020-03-09,0
+São Paulo,2020-03-09,0
+Rio de Janeiro,2020-03-10,0
+São Paulo,2020-03-10,3
+Porto Alegre,2020-03-11,1
+Rio de Janeiro,2020-03-11,0
+São Paulo,2020-03-11,11
+Porto Alegre,2020-03-12,1
+Recife,2020-03-12,2
+Rio de Janeiro,2020-03-12,11
+São Paulo,2020-03-12,15
+Manaus,2020-03-13,2
+Porto Alegre,2020-03-13,0
+Recife,2020-03-13,0
+Rio de Janeiro,2020-03-13,0
+Salvador,2020-03-13,3
+São Paulo,2020-03-13,0
+Manaus,2020-03-14,0
+Porto Alegre,2020-03-14,0
+Recife,2020-03-14,4
+Rio de Janeiro,2020-03-14,0
+Salvador,2020-03-14,0
+São Paulo,2020-03-14,18
+Manaus,2020-03-15,0
+Porto Alegre,2020-03-15,0
+Recife,2020-03-15,1
+Rio de Janeiro,2020-03-15,9
+Salvador,2020-03-15,1
+São Paulo,2020-03-15,0
+Belo Horizonte,2020-03-16,1
+Fortaleza,2020-03-16,8
+Manaus,2020-03-16,0
+Porto Alegre,2020-03-16,4
+Recife,2020-03-16,0
+Rio de Janeiro,2020-03-16,1
+Salvador,2020-03-16,0
+São Paulo,2020-03-16,83
+Belo Horizonte,2020-03-17,4
+Fortaleza,2020-03-17,1
+Manaus,2020-03-17,0
+Porto Alegre,2020-03-17,0
+Recife,2020-03-17,6
+Rio de Janeiro,2020-03-17,0
+Salvador,2020-03-17,1
+São Paulo,2020-03-17,11
+Belo Horizonte,2020-03-18,5
+Fortaleza,2020-03-18,8
+Manaus,2020-03-18,0
+Porto Alegre,2020-03-18,9
+Recife,2020-03-18,1
+Rio de Janeiro,2020-03-18,32
+Salvador,2020-03-18,12
+São Paulo,2020-03-18,58
+Belo Horizonte,2020-03-19,8
+Fortaleza,2020-03-19,0
+Manaus,2020-03-19,1
+Porto Alegre,2020-03-19,5
+Recife,2020-03-19,0
+Rio de Janeiro,2020-03-19,1
+Salvador,2020-03-19,1
+São Paulo,2020-03-19,45
+Belo Horizonte,2020-03-20,2
+Fortaleza,2020-03-20,46
+Manaus,2020-03-20,4
+Porto Alegre,2020-03-20,5
+Recife,2020-03-20,0
+Rio de Janeiro,2020-03-20,0
+Salvador,2020-03-20,0
+São Paulo,2020-03-20,47
+Belo Horizonte,2020-03-21,10
+Fortaleza,2020-03-21,13
+Manaus,2020-03-21,4
+Porto Alegre,2020-03-21,10
+Recife,2020-03-21,11
+Rio de Janeiro,2020-03-21,43
+Salvador,2020-03-21,5
+São Paulo,2020-03-21,0
+Belo Horizonte,2020-03-22,0
+Fortaleza,2020-03-22,40
+Manaus,2020-03-22,14
+Porto Alegre,2020-03-22,3
+Recife,2020-03-22,3
+Rio de Janeiro,2020-03-22,69
+Salvador,2020-03-22,10
+São Paulo,2020-03-22,0
+Belo Horizonte,2020-03-23,30
+Fortaleza,2020-03-23,35
+Manaus,2020-03-23,6
+Porto Alegre,2020-03-23,3
+Recife,2020-03-23,2
+Rio de Janeiro,2020-03-23,44
+Salvador,2020-03-23,4
+São Paulo,2020-03-23,0
+Belo Horizonte,2020-03-24,27
+Fortaleza,2020-03-24,19
+Manaus,2020-03-24,14
+Porto Alegre,2020-03-24,6
+Recife,2020-03-24,0
+Rio de Janeiro,2020-03-24,64
+Salvador,2020-03-24,8
+São Paulo,2020-03-24,0
+Belo Horizonte,2020-03-25,3
+Fortaleza,2020-03-25,26
+Manaus,2020-03-25,7
+Porto Alegre,2020-03-25,40
+Recife,2020-03-25,1
+Rio de Janeiro,2020-03-25,55
+Salvador,2020-03-25,9
+São Paulo,2020-03-25,416
+Belo Horizonte,2020-03-26,6
+Fortaleza,2020-03-26,28
+Manaus,2020-03-26,11
+Porto Alegre,2020-03-26,16
+Recife,2020-03-26,2
+Rio de Janeiro,2020-03-26,37
+Salvador,2020-03-26,6
+São Paulo,2020-03-26,177
+Belo Horizonte,2020-03-27,22
+Fortaleza,2020-03-27,44
+Manaus,2020-03-27,12
+Porto Alegre,2020-03-27,4
+Recife,2020-03-27,5
+Rio de Janeiro,2020-03-27,63
+Salvador,2020-03-27,18
+São Paulo,2020-03-27,145
+Belo Horizonte,2020-03-28,11
+Fortaleza,2020-03-28,36
+Manaus,2020-03-28,30
+Porto Alegre,2020-03-28,0
+Recife,2020-03-28,8
+Rio de Janeiro,2020-03-28,58
+Salvador,2020-03-28,3
+São Paulo,2020-03-28,0
+Belo Horizonte,2020-03-29,14
+Fortaleza,2020-03-29,34
+Manaus,2020-03-29,26
+Porto Alegre,2020-03-29,28
+Recife,2020-03-29,4
+Rio de Janeiro,2020-03-29,27
+Salvador,2020-03-29,22
+São Paulo,2020-03-29,0
+Belo Horizonte,2020-03-30,20
+Fortaleza,2020-03-30,15
+Manaus,2020-03-30,9
+Porto Alegre,2020-03-30,8
+Recife,2020-03-30,2
+Rio de Janeiro,2020-03-30,37
+Salvador,2020-03-30,14
+São Paulo,2020-03-30,189
+Belo Horizonte,2020-03-31,0
+Fortaleza,2020-03-31,18
+Manaus,2020-03-31,19
+Porto Alegre,2020-03-31,47
+Recife,2020-03-31,6
+Rio de Janeiro,2020-03-31,33
+Salvador,2020-03-31,15
+São Paulo,2020-03-31,652
+Belo Horizonte,2020-04-01,25
+Fortaleza,2020-04-01,42
+Manaus,2020-04-01,20
+Porto Alegre,2020-04-01,0
+Recife,2020-04-01,6
+Rio de Janeiro,2020-04-01,111
+Salvador,2020-04-01,21
+São Paulo,2020-04-01,533
+Belo Horizonte,2020-04-02,22
+Fortaleza,2020-04-02,113
+Manaus,2020-04-02,26
+Porto Alegre,2020-04-02,42
+Recife,2020-04-02,10
+Rio de Janeiro,2020-04-02,101
+Salvador,2020-04-02,14
+São Paulo,2020-04-02,397
+Belo Horizonte,2020-04-03,15
+Fortaleza,2020-04-03,74
+Manaus,2020-04-03,27
+Porto Alegre,2020-04-03,1
+Recife,2020-04-03,18
+Rio de Janeiro,2020-04-03,69
+Salvador,2020-04-03,16
+São Paulo,2020-04-03,387
+Belo Horizonte,2020-04-04,12
+Fortaleza,2020-04-04,81
+Manaus,2020-04-04,51
+Porto Alegre,2020-04-04,8
+Recife,2020-04-04,27
+Rio de Janeiro,2020-04-04,115
+Salvador,2020-04-04,32
+São Paulo,2020-04-04,294
+Belo Horizonte,2020-04-05,25
+Fortaleza,2020-04-05,188
+Manaus,2020-04-05,96
+Porto Alegre,2020-04-05,13
+Recife,2020-04-05,20
+Rio de Janeiro,2020-04-05,86
+Salvador,2020-04-05,29
+São Paulo,2020-04-05,116
+Belo Horizonte,2020-04-06,2
+Fortaleza,2020-04-06,60
+Manaus,2020-04-06,94
+Porto Alegre,2020-04-06,-1
+Recife,2020-04-06,7
+Rio de Janeiro,2020-04-06,42
+Salvador,2020-04-06,19
+São Paulo,2020-04-06,142
+Belo Horizonte,2020-04-07,11
+Fortaleza,2020-04-07,124
+Manaus,2020-04-07,87
+Porto Alegre,2020-04-07,19
+Recife,2020-04-07,75
+Rio de Janeiro,2020-04-07,141
+Salvador,2020-04-07,6
+São Paulo,2020-04-07,504
+Belo Horizonte,2020-04-08,24
+Fortaleza,2020-04-08,185
+Manaus,2020-04-08,152
+Porto Alegre,2020-04-08,7
+Recife,2020-04-08,33
+Rio de Janeiro,2020-04-08,198
+Salvador,2020-04-08,23
+São Paulo,2020-04-08,689
+Belo Horizonte,2020-04-09,11
+Fortaleza,2020-04-09,45
+Manaus,2020-04-09,88
+Porto Alegre,2020-04-09,24
+Recife,2020-04-09,86
+Rio de Janeiro,2020-04-09,184
+Salvador,2020-04-09,22
+São Paulo,2020-04-09,530
+Belo Horizonte,2020-04-10,20
+Fortaleza,2020-04-10,83
+Manaus,2020-04-10,63
+Porto Alegre,2020-04-10,0
+Recife,2020-04-10,73
+Rio de Janeiro,2020-04-10,175
+Salvador,2020-04-10,29
+São Paulo,2020-04-10,505
+Belo Horizonte,2020-04-11,8
+Fortaleza,2020-04-11,91
+Manaus,2020-04-11,69
+Porto Alegre,2020-04-11,8
+Recife,2020-04-11,73
+Rio de Janeiro,2020-04-11,97
+Salvador,2020-04-11,12
+São Paulo,2020-04-11,149
+Belo Horizonte,2020-04-12,17
+Fortaleza,2020-04-12,72
+Manaus,2020-04-12,121
+Porto Alegre,2020-04-12,3
+Recife,2020-04-12,71
+Rio de Janeiro,2020-04-12,91
+Salvador,2020-04-12,9
+São Paulo,2020-04-12,221
+Belo Horizonte,2020-04-13,2
+Fortaleza,2020-04-13,157
+Manaus,2020-04-13,53
+Porto Alegre,2020-04-13,1
+Recife,2020-04-13,115
+Rio de Janeiro,2020-04-13,326
+Salvador,2020-04-13,26
+São Paulo,2020-04-13,66
+Belo Horizonte,2020-04-14,16
+Fortaleza,2020-04-14,108
+Manaus,2020-04-14,189
+Porto Alegre,2020-04-14,12
+Recife,2020-04-14,61
+Rio de Janeiro,2020-04-14,71
+Salvador,2020-04-14,38
+São Paulo,2020-04-14,287
+Belo Horizonte,2020-04-15,7
+Fortaleza,2020-04-15,152
+Manaus,2020-04-15,55
+Porto Alegre,2020-04-15,23
+Recife,2020-04-15,124
+Rio de Janeiro,2020-04-15,126
+Salvador,2020-04-15,94
+São Paulo,2020-04-15,1059
+Belo Horizonte,2020-04-16,10
+Fortaleza,2020-04-16,95
+Manaus,2020-04-16,109
+Porto Alegre,2020-04-16,11
+Recife,2020-04-16,101
+Rio de Janeiro,2020-04-16,140
+Salvador,2020-04-16,50
+São Paulo,2020-04-16,144
+Belo Horizonte,2020-04-17,16
+Fortaleza,2020-04-17,259
+Manaus,2020-04-17,72
+Porto Alegre,2020-04-17,8
+Recife,2020-04-17,178
+Rio de Janeiro,2020-04-17,287
+Salvador,2020-04-17,71
+São Paulo,2020-04-17,836
+Belo Horizonte,2020-04-18,14
+Fortaleza,2020-04-18,262
+Manaus,2020-04-18,62
+Porto Alegre,2020-04-18,5
+Recife,2020-04-18,119
+Rio de Janeiro,2020-04-18,113
+Salvador,2020-04-18,117
+São Paulo,2020-04-18,684
+Belo Horizonte,2020-04-19,28
+Fortaleza,2020-04-19,126
+Manaus,2020-04-19,71
+Porto Alegre,2020-04-19,0
+Recife,2020-04-19,144
+Rio de Janeiro,2020-04-19,67
+Salvador,2020-04-19,4
+São Paulo,2020-04-19,240
+Belo Horizonte,2020-04-20,12
+Fortaleza,2020-04-20,152
+Manaus,2020-04-20,108
+Porto Alegre,2020-04-20,16
+Recife,2020-04-20,153
+Rio de Janeiro,2020-04-20,117
+Salvador,2020-04-20,60
+São Paulo,2020-04-20,147
+Belo Horizonte,2020-04-21,7
+Fortaleza,2020-04-21,178
+Manaus,2020-04-21,37
+Porto Alegre,2020-04-21,3
+Recife,2020-04-21,135
+Rio de Janeiro,2020-04-21,344
+Salvador,2020-04-21,103
+São Paulo,2020-04-21,527
+Belo Horizonte,2020-04-22,20
+Fortaleza,2020-04-22,285
+Manaus,2020-04-22,149
+Porto Alegre,2020-04-22,8
+Recife,2020-04-22,217
+Rio de Janeiro,2020-04-22,69
+Salvador,2020-04-22,112
+São Paulo,2020-04-22,349
+Belo Horizonte,2020-04-23,4
+Fortaleza,2020-04-23,488
+Manaus,2020-04-23,328
+Porto Alegre,2020-04-23,12
+Recife,2020-04-23,158
+Rio de Janeiro,2020-04-23,371
+Salvador,2020-04-23,98
+São Paulo,2020-04-23,534
+Belo Horizonte,2020-04-24,28
+Fortaleza,2020-04-24,272
+Manaus,2020-04-24,195
+Porto Alegre,2020-04-24,7
+Recife,2020-04-24,-415
+Rio de Janeiro,2020-04-24,64
+Salvador,2020-04-24,86
+São Paulo,2020-04-24,575
+Belo Horizonte,2020-04-25,9
+Fortaleza,2020-04-25,478
+Manaus,2020-04-25,197
+Porto Alegre,2020-04-25,5
+Recife,2020-04-25,129
+Rio de Janeiro,2020-04-25,390
+Salvador,2020-04-25,85
+São Paulo,2020-04-25,1298
+Belo Horizonte,2020-04-26,16
+Fortaleza,2020-04-26,450
+Manaus,2020-04-26,44
+Porto Alegre,2020-04-26,2
+Recife,2020-04-26,946
+Rio de Janeiro,2020-04-26,17
+Salvador,2020-04-26,54
+São Paulo,2020-04-26,415
+Belo Horizonte,2020-04-27,15
+Fortaleza,2020-04-27,335
+Manaus,2020-04-27,16
+Porto Alegre,2020-04-27,3
+Recife,2020-04-27,249
+Rio de Janeiro,2020-04-27,763
+Salvador,2020-04-27,73
+São Paulo,2020-04-27,476
+Belo Horizonte,2020-04-28,10
+Fortaleza,2020-04-28,155
+Manaus,2020-04-28,161
+Porto Alegre,2020-04-28,11
+Recife,2020-04-28,187
+Rio de Janeiro,2020-04-28,293
+Salvador,2020-04-28,148
+São Paulo,2020-04-28,1408
+Belo Horizonte,2020-04-29,8
+Fortaleza,2020-04-29,231
+Manaus,2020-04-29,192
+Porto Alegre,2020-04-29,6
+Recife,2020-04-29,265
+Rio de Janeiro,2020-04-29,135
+Salvador,2020-04-29,62
+São Paulo,2020-04-29,1241
+Belo Horizonte,2020-04-30,16
+Fortaleza,2020-04-30,258
+Manaus,2020-04-30,182
+Porto Alegre,2020-04-30,4
+Recife,2020-04-30,357
+Rio de Janeiro,2020-04-30,214
+Salvador,2020-04-30,145
+São Paulo,2020-04-30,1511
+Belo Horizonte,2020-05-01,17
+Fortaleza,2020-05-01,112
+Manaus,2020-05-01,218
+Porto Alegre,2020-05-01,4
+Recife,2020-05-01,241
+Rio de Janeiro,2020-05-01,286
+Salvador,2020-05-01,211
+São Paulo,2020-05-01,938
+Belo Horizonte,2020-05-02,16
+Fortaleza,2020-05-02,271
+Manaus,2020-05-02,167
+Porto Alegre,2020-05-02,-1
+Recife,2020-05-02,432
+Rio de Janeiro,2020-05-02,259
+Salvador,2020-05-02,105
+São Paulo,2020-05-02,407
+Belo Horizonte,2020-05-03,20
+Fortaleza,2020-05-03,64
+Manaus,2020-05-03,414
+Porto Alegre,2020-05-03,6
+Recife,2020-05-03,249
+Rio de Janeiro,2020-05-03,302
+Salvador,2020-05-03,147
+São Paulo,2020-05-03,328
+Belo Horizonte,2020-05-04,199
+Fortaleza,2020-05-04,1781
+Manaus,2020-05-04,272
+Porto Alegre,2020-05-04,4
+Recife,2020-05-04,105
+Rio de Janeiro,2020-05-04,533
+Salvador,2020-05-04,124
+São Paulo,2020-05-04,251
+Belo Horizonte,2020-05-05,6
+Fortaleza,2020-05-05,311
+Manaus,2020-05-05,460
+Porto Alegre,2020-05-05,3
+Recife,2020-05-05,0
+Rio de Janeiro,2020-05-05,549
+Salvador,2020-05-05,229
+São Paulo,2020-05-05,1067
+Belo Horizonte,2020-05-06,6
+Fortaleza,2020-05-06,552
+Manaus,2020-05-06,670
+Porto Alegre,2020-05-06,10
+Recife,2020-05-06,0
+Rio de Janeiro,2020-05-06,745
+Salvador,2020-05-06,148
+São Paulo,2020-05-06,2047
+Belo Horizonte,2020-05-07,58
+Fortaleza,2020-05-07,608
+Manaus,2020-05-07,423
+Porto Alegre,2020-05-07,2
+Recife,2020-05-07,968
+Rio de Janeiro,2020-05-07,474
+Salvador,2020-05-07,130
+São Paulo,2020-05-07,1086
+Belo Horizonte,2020-05-08,11
+Fortaleza,2020-05-08,807
+Manaus,2020-05-08,137
+Porto Alegre,2020-05-08,19
+Recife,2020-05-08,0
+Rio de Janeiro,2020-05-08,621
+Salvador,2020-05-08,252
+São Paulo,2020-05-08,1094
+Belo Horizonte,2020-05-09,34
+Fortaleza,2020-05-09,519
+Manaus,2020-05-09,709
+Porto Alegre,2020-05-09,9
+Recife,2020-05-09,806
+Rio de Janeiro,2020-05-09,807
+Salvador,2020-05-09,213
+São Paulo,2020-05-09,1420
+Belo Horizonte,2020-05-10,13
+Fortaleza,2020-05-10,561
+Manaus,2020-05-10,455
+Porto Alegre,2020-05-10,1
+Recife,2020-05-10,403
+Rio de Janeiro,2020-05-10,41
+Salvador,2020-05-10,328
+São Paulo,2020-05-10,520
+Belo Horizonte,2020-05-11,6
+Fortaleza,2020-05-11,379
+Manaus,2020-05-11,66
+Porto Alegre,2020-05-11,21
+Recife,2020-05-11,240
+Rio de Janeiro,2020-05-11,99
+Salvador,2020-05-11,214
+São Paulo,2020-05-11,464
+Belo Horizonte,2020-05-12,13
+Fortaleza,2020-05-12,549
+Manaus,2020-05-12,613
+Porto Alegre,2020-05-12,17
+Recife,2020-05-12,253
+Rio de Janeiro,2020-05-12,197
+Salvador,2020-05-12,229
+São Paulo,2020-05-12,911
+Belo Horizonte,2020-05-13,56
+Fortaleza,2020-05-13,553
+Manaus,2020-05-13,753
+Porto Alegre,2020-05-13,18
+Recife,2020-05-13,280
+Rio de Janeiro,2020-05-13,210
+Salvador,2020-05-13,242
+São Paulo,2020-05-13,1720
+Belo Horizonte,2020-05-14,20
+Fortaleza,2020-05-14,740
+Manaus,2020-05-14,780
+Porto Alegre,2020-05-14,10
+Recife,2020-05-14,339
+Rio de Janeiro,2020-05-14,238
+Salvador,2020-05-14,270
+São Paulo,2020-05-14,1471
+Belo Horizonte,2020-05-15,20
+Fortaleza,2020-05-15,913
+Manaus,2020-05-15,303
+Porto Alegre,2020-05-15,23
+Recife,2020-05-15,256
+Rio de Janeiro,2020-05-15,451
+Salvador,2020-05-15,211
+São Paulo,2020-05-15,2119
+Belo Horizonte,2020-05-16,62
+Fortaleza,2020-05-16,472
+Manaus,2020-05-16,584
+Porto Alegre,2020-05-16,0
+Recife,2020-05-16,1061
+Rio de Janeiro,2020-05-16,580
+Salvador,2020-05-16,437
+São Paulo,2020-05-16,1437
+Belo Horizonte,2020-05-17,10
+Fortaleza,2020-05-17,209
+Manaus,2020-05-17,110
+Porto Alegre,2020-05-17,5
+Recife,2020-05-17,359
+Rio de Janeiro,2020-05-17,626
+Salvador,2020-05-17,50
+São Paulo,2020-05-17,502
+Belo Horizonte,2020-05-18,29
+Fortaleza,2020-05-18,798
+Manaus,2020-05-18,253
+Porto Alegre,2020-05-18,1
+Recife,2020-05-18,275
+Rio de Janeiro,2020-05-18,522
+Salvador,2020-05-18,9
+São Paulo,2020-05-18,257
+Belo Horizonte,2020-05-19,60
+Fortaleza,2020-05-19,615
+Manaus,2020-05-19,391
+Porto Alegre,2020-05-19,0
+Recife,2020-05-19,514
+Rio de Janeiro,2020-05-19,1088
+Salvador,2020-05-19,-8
+São Paulo,2020-05-19,1452
+Belo Horizonte,2020-05-20,38
+Fortaleza,2020-05-20,1226
+Manaus,2020-05-20,592
+Porto Alegre,2020-05-20,-2
+Recife,2020-05-20,493
+Rio de Janeiro,2020-05-20,2535
+Salvador,2020-05-20,0
+São Paulo,2020-05-20,1826
+Belo Horizonte,2020-05-21,29
+Fortaleza,2020-05-21,634
+Manaus,2020-05-21,674
+Porto Alegre,2020-05-21,0
+Recife,2020-05-21,530
+Rio de Janeiro,2020-05-21,1677
+Salvador,2020-05-21,1549
+São Paulo,2020-05-21,1985
+Belo Horizonte,2020-05-22,35
+Fortaleza,2020-05-22,626
+Manaus,2020-05-22,650
+Porto Alegre,2020-05-22,0
+Recife,2020-05-22,939
+Rio de Janeiro,2020-05-22,1418
+Salvador,2020-05-22,238
+São Paulo,2020-05-22,1522
+Belo Horizonte,2020-05-23,42
+Fortaleza,2020-05-23,282
+Manaus,2020-05-23,657
+Porto Alegre,2020-05-23,0
+Recife,2020-05-23,401
+Rio de Janeiro,2020-05-23,882
+Salvador,2020-05-23,908
+São Paulo,2020-05-23,1914
+Belo Horizonte,2020-05-24,41
+Fortaleza,2020-05-24,243
+Manaus,2020-05-24,257
+Porto Alegre,2020-05-24,1
+Recife,2020-05-24,373
+Rio de Janeiro,2020-05-24,732
+Salvador,2020-05-24,587
+São Paulo,2020-05-24,640
+Belo Horizonte,2020-05-25,10
+Fortaleza,2020-05-25,351
+Manaus,2020-05-25,98
+Porto Alegre,2020-05-25,1
+Recife,2020-05-25,252
+Rio de Janeiro,2020-05-25,691
+Salvador,2020-05-25,247
+São Paulo,2020-05-25,677
+Belo Horizonte,2020-05-26,90
+Fortaleza,2020-05-26,643
+Manaus,2020-05-26,423
+Porto Alegre,2020-05-26,0
+Recife,2020-05-26,163
+Rio de Janeiro,2020-05-26,824
+Salvador,2020-05-26,234
+São Paulo,2020-05-26,1350
+Belo Horizonte,2020-05-27,79
+Fortaleza,2020-05-27,150
+Manaus,2020-05-27,398
+Porto Alegre,2020-05-27,0
+Recife,2020-05-27,374
+Rio de Janeiro,2020-05-27,1460
+Salvador,2020-05-27,295
+São Paulo,2020-05-27,1710
+Belo Horizonte,2020-05-28,61
+Fortaleza,2020-05-28,389
+Manaus,2020-05-28,969
+Porto Alegre,2020-05-28,2
+Recife,2020-05-28,279
+Rio de Janeiro,2020-05-28,1224
+Salvador,2020-05-28,485
+São Paulo,2020-05-28,3455
+Belo Horizonte,2020-05-29,92
+Fortaleza,2020-05-29,377
+Manaus,2020-05-29,1723
+Porto Alegre,2020-05-29,32
+Recife,2020-05-29,467
+Rio de Janeiro,2020-05-29,1337
+Salvador,2020-05-29,479
+São Paulo,2020-05-29,3022
+Belo Horizonte,2020-05-30,12
+Fortaleza,2020-05-30,1673
+Manaus,2020-05-30,647
+Porto Alegre,2020-05-30,94
+Recife,2020-05-30,333
+Rio de Janeiro,2020-05-30,1170
+Salvador,2020-05-30,371
+São Paulo,2020-05-30,2878
+Belo Horizonte,2020-05-31,74
+Fortaleza,2020-05-31,235
+Manaus,2020-05-31,154
+Porto Alegre,2020-05-31,12
+Recife,2020-05-31,309
+Rio de Janeiro,2020-05-31,676
+Salvador,2020-05-31,363
+São Paulo,2020-05-31,1512
+Belo Horizonte,2020-06-01,30
+Fortaleza,2020-06-01,491
+Manaus,2020-06-01,74
+Porto Alegre,2020-06-01,1
+Recife,2020-06-01,91
+Rio de Janeiro,2020-06-01,857
+Salvador,2020-06-01,344
+São Paulo,2020-06-01,995
+Belo Horizonte,2020-06-02,30
+Fortaleza,2020-06-02,1240
+Manaus,2020-06-02,614
+Porto Alegre,2020-06-02,3
+Recife,2020-06-02,184
+Rio de Janeiro,2020-06-02,1190
+Salvador,2020-06-02,1419
+São Paulo,2020-06-02,3317
+Belo Horizonte,2020-06-03,117
+Fortaleza,2020-06-03,382
+Manaus,2020-06-03,62
+Porto Alegre,2020-06-03,31
+Recife,2020-06-03,228
+Rio de Janeiro,2020-06-03,1747
+Salvador,2020-06-03,428
+São Paulo,2020-06-03,2334
+Belo Horizonte,2020-06-04,115
+Fortaleza,2020-06-04,788
+Manaus,2020-06-04,919
+Porto Alegre,2020-06-04,171
+Recife,2020-06-04,273
+Rio de Janeiro,2020-06-04,744
+Salvador,2020-06-04,467
+São Paulo,2020-06-04,2570
+Belo Horizonte,2020-06-05,161
+Fortaleza,2020-06-05,560
+Manaus,2020-06-05,460
+Porto Alegre,2020-06-05,128
+Recife,2020-06-05,270
+Rio de Janeiro,2020-06-05,1348
+Salvador,2020-06-05,1428
+São Paulo,2020-06-05,2106
+Belo Horizonte,2020-06-06,103
+Fortaleza,2020-06-06,246
+Manaus,2020-06-06,363
+Porto Alegre,2020-06-06,54
+Recife,2020-06-06,175
+Rio de Janeiro,2020-06-06,660
+Salvador,2020-06-06,518
+São Paulo,2020-06-06,2408
+Belo Horizonte,2020-06-07,89
+Fortaleza,2020-06-07,91
+Manaus,2020-06-07,52
+Porto Alegre,2020-06-07,8
+Recife,2020-06-07,214
+Rio de Janeiro,2020-06-07,412
+Salvador,2020-06-07,310
+São Paulo,2020-06-07,935
+Belo Horizonte,2020-06-08,17
+Fortaleza,2020-06-08,478
+Manaus,2020-06-08,111
+Porto Alegre,2020-06-08,2
+Recife,2020-06-08,128
+Rio de Janeiro,2020-06-08,778
+Salvador,2020-06-08,230
+São Paulo,2020-06-08,903
+Belo Horizonte,2020-06-09,35
+Fortaleza,2020-06-09,661
+Manaus,2020-06-09,657
+Porto Alegre,2020-06-09,12
+Recife,2020-06-09,96
+Rio de Janeiro,2020-06-09,1010
+Salvador,2020-06-09,945
+São Paulo,2020-06-09,2327
+Belo Horizonte,2020-06-10,283
+Fortaleza,2020-06-10,772
+Manaus,2020-06-10,554
+Porto Alegre,2020-06-10,92
+Recife,2020-06-10,244
+Rio de Janeiro,2020-06-10,1057
+Salvador,2020-06-10,975
+São Paulo,2020-06-10,2431
+Belo Horizonte,2020-06-11,87
+Fortaleza,2020-06-11,629
+Manaus,2020-06-11,345
+Porto Alegre,2020-06-11,52
+Recife,2020-06-11,308
+Rio de Janeiro,2020-06-11,1057
+Salvador,2020-06-11,555
+São Paulo,2020-06-11,2619
+Belo Horizonte,2020-06-12,175
+Fortaleza,2020-06-12,259
+Manaus,2020-06-12,131
+Porto Alegre,2020-06-12,7
+Recife,2020-06-12,181
+Rio de Janeiro,2020-06-12,487
+Salvador,2020-06-12,321
+São Paulo,2020-06-12,2546
+Belo Horizonte,2020-06-13,130
+Fortaleza,2020-06-13,113
+Manaus,2020-06-13,259
+Porto Alegre,2020-06-13,42
+Recife,2020-06-13,236
+Rio de Janeiro,2020-06-13,907
+Salvador,2020-06-13,660
+São Paulo,2020-06-13,2403
+Belo Horizonte,2020-06-14,201
+Fortaleza,2020-06-14,103
+Manaus,2020-06-14,207
+Porto Alegre,2020-06-14,7
+Recife,2020-06-14,151
+Rio de Janeiro,2020-06-14,357
+Salvador,2020-06-14,173
+São Paulo,2020-06-14,3173
+Belo Horizonte,2020-06-15,62
+Fortaleza,2020-06-15,437
+Manaus,2020-06-15,37
+Porto Alegre,2020-06-15,45
+Recife,2020-06-15,80
+Rio de Janeiro,2020-06-15,617
+Salvador,2020-06-15,665
+São Paulo,2020-06-15,2250
+Belo Horizonte,2020-06-16,1
+Fortaleza,2020-06-16,123
+Manaus,2020-06-16,474
+Porto Alegre,2020-06-16,170
+Recife,2020-06-16,182
+Rio de Janeiro,2020-06-16,1489
+Salvador,2020-06-16,637
+São Paulo,2020-06-16,4228
+Belo Horizonte,2020-06-17,143
+Fortaleza,2020-06-17,855
+Manaus,2020-06-17,477
+Porto Alegre,2020-06-17,43
+Recife,2020-06-17,247
+Rio de Janeiro,2020-06-17,2104
+Salvador,2020-06-17,731
+São Paulo,2020-06-17,456
+Belo Horizonte,2020-06-18,179
+Fortaleza,2020-06-18,385
+Manaus,2020-06-18,65
+Porto Alegre,2020-06-18,21
+Recife,2020-06-18,229
+Rio de Janeiro,2020-06-18,277
+Salvador,2020-06-18,35
+São Paulo,2020-06-18,398
+Belo Horizonte,2020-06-19,69
+Fortaleza,2020-06-19,305
+Manaus,2020-06-19,427
+Porto Alegre,2020-06-19,16
+Recife,2020-06-19,201
+Rio de Janeiro,2020-06-19,2498
+Salvador,2020-06-19,227
+São Paulo,2020-06-19,6877
+Belo Horizonte,2020-06-20,113
+Fortaleza,2020-06-20,263
+Manaus,2020-06-20,397
+Porto Alegre,2020-06-20,21
+Recife,2020-06-20,187
+Rio de Janeiro,2020-06-20,1376
+Salvador,2020-06-20,892
+São Paulo,2020-06-20,184
+Belo Horizonte,2020-06-21,91
+Fortaleza,2020-06-21,60
+Manaus,2020-06-21,125
+Porto Alegre,2020-06-21,4
+Recife,2020-06-21,234
+Rio de Janeiro,2020-06-21,301
+Salvador,2020-06-21,364
+São Paulo,2020-06-21,949
+Belo Horizonte,2020-06-22,345
+Fortaleza,2020-06-22,344
+Manaus,2020-06-22,50
+Porto Alegre,2020-06-22,21
+Recife,2020-06-22,66
+Rio de Janeiro,2020-06-22,492
+Salvador,2020-06-22,228
+São Paulo,2020-06-22,1191
+Belo Horizonte,2020-06-23,239
+Fortaleza,2020-06-23,557
+Manaus,2020-06-23,557
+Porto Alegre,2020-06-23,174
+Recife,2020-06-23,39
+Rio de Janeiro,2020-06-23,1403
+Salvador,2020-06-23,709
+São Paulo,2020-06-23,2483
+Belo Horizonte,2020-06-24,105
+Fortaleza,2020-06-24,272
+Manaus,2020-06-24,443
+Porto Alegre,2020-06-24,255
+Recife,2020-06-24,257
+Rio de Janeiro,2020-06-24,982
+Salvador,2020-06-24,1401
+São Paulo,2020-06-24,3047
+Belo Horizonte,2020-06-25,170
+Fortaleza,2020-06-25,421
+Manaus,2020-06-25,330
+Porto Alegre,2020-06-25,142
+Recife,2020-06-25,190
+Rio de Janeiro,2020-06-25,862
+Salvador,2020-06-25,1065
+São Paulo,2020-06-25,4050
+Belo Horizonte,2020-06-26,35
+Fortaleza,2020-06-26,271
+Manaus,2020-06-26,300
+Porto Alegre,2020-06-26,118
+Recife,2020-06-26,110
+Rio de Janeiro,2020-06-26,983
+Salvador,2020-06-26,852
+São Paulo,2020-06-26,3852
+Belo Horizonte,2020-06-27,0
+Fortaleza,2020-06-27,273
+Manaus,2020-06-27,59
+Porto Alegre,2020-06-27,73
+Recife,2020-06-27,166
+Rio de Janeiro,2020-06-27,134
+Salvador,2020-06-27,3475
+São Paulo,2020-06-27,1596
+Belo Horizonte,2020-06-28,218
+Fortaleza,2020-06-28,20
+Manaus,2020-06-28,280
+Porto Alegre,2020-06-28,8
+Recife,2020-06-28,137
+Rio de Janeiro,2020-06-28,774
+Salvador,2020-06-28,1191
+São Paulo,2020-06-28,1346
+Belo Horizonte,2020-06-29,245
+Fortaleza,2020-06-29,69
+Manaus,2020-06-29,10
+Porto Alegre,2020-06-29,20
+Recife,2020-06-29,78
+Rio de Janeiro,2020-06-29,291
+Salvador,2020-06-29,267
+São Paulo,2020-06-29,907
+Belo Horizonte,2020-06-30,70
+Fortaleza,2020-06-30,232
+Manaus,2020-06-30,37
+Porto Alegre,2020-06-30,105
+Recife,2020-06-30,73
+Rio de Janeiro,2020-06-30,585
+Salvador,2020-06-30,906
+São Paulo,2020-06-30,2107
+Belo Horizonte,2020-07-01,405
+Fortaleza,2020-07-01,302
+Manaus,2020-07-01,651
+Porto Alegre,2020-07-01,111
+Recife,2020-07-01,166
+Rio de Janeiro,2020-07-01,943
+Salvador,2020-07-01,1108
+São Paulo,2020-07-01,2209
+Belo Horizonte,2020-07-02,655
+Fortaleza,2020-07-02,284
+Manaus,2020-07-02,308
+Porto Alegre,2020-07-02,79
+Recife,2020-07-02,208
+Rio de Janeiro,2020-07-02,736
+Salvador,2020-07-02,1224
+São Paulo,2020-07-02,5656
+Belo Horizonte,2020-07-03,574
+Fortaleza,2020-07-03,373
+Manaus,2020-07-03,321
+Porto Alegre,2020-07-03,105
+Recife,2020-07-03,152
+Rio de Janeiro,2020-07-03,833
+Salvador,2020-07-03,976
+São Paulo,2020-07-03,2090
+Belo Horizonte,2020-07-04,417
+Fortaleza,2020-07-04,603
+Manaus,2020-07-04,330
+Porto Alegre,2020-07-04,123
+Recife,2020-07-04,145
+Rio de Janeiro,2020-07-04,585
+Salvador,2020-07-04,1217
+São Paulo,2020-07-04,688
+Belo Horizonte,2020-07-05,329
+Fortaleza,2020-07-05,64
+Manaus,2020-07-05,75
+Porto Alegre,2020-07-05,104
+Recife,2020-07-05,283
+Rio de Janeiro,2020-07-05,200
+Salvador,2020-07-05,437
+São Paulo,2020-07-05,2109
+Belo Horizonte,2020-07-06,190
+Fortaleza,2020-07-06,132
+Manaus,2020-07-06,17
+Porto Alegre,2020-07-06,47
+Recife,2020-07-06,56
+Rio de Janeiro,2020-07-06,363
+Salvador,2020-07-06,228
+São Paulo,2020-07-06,360
+Belo Horizonte,2020-07-07,193
+Fortaleza,2020-07-07,267
+Manaus,2020-07-07,285
+Porto Alegre,2020-07-07,237
+Recife,2020-07-07,100
+Rio de Janeiro,2020-07-07,1062
+Salvador,2020-07-07,1170
+São Paulo,2020-07-07,2271
+Belo Horizonte,2020-07-08,501
+Fortaleza,2020-07-08,283
+Manaus,2020-07-08,240
+Porto Alegre,2020-07-08,244
+Recife,2020-07-08,253
+Rio de Janeiro,2020-07-08,805
+Salvador,2020-07-08,1012
+São Paulo,2020-07-08,2071
+Belo Horizonte,2020-07-09,587
+Fortaleza,2020-07-09,103
+Manaus,2020-07-09,440
+Porto Alegre,2020-07-09,87
+Recife,2020-07-09,206
+Rio de Janeiro,2020-07-09,933
+Salvador,2020-07-09,594
+São Paulo,2020-07-09,2166
+Belo Horizonte,2020-07-10,617
+Fortaleza,2020-07-10,219
+Manaus,2020-07-10,333
+Porto Alegre,2020-07-10,62
+Recife,2020-07-10,215
+Rio de Janeiro,2020-07-10,631
+Salvador,2020-07-10,607
+São Paulo,2020-07-10,2692
+Belo Horizonte,2020-07-11,640
+Fortaleza,2020-07-11,96
+Manaus,2020-07-11,28
+Porto Alegre,2020-07-11,124
+Recife,2020-07-11,236
+Rio de Janeiro,2020-07-11,75
+Salvador,2020-07-11,610
+São Paulo,2020-07-11,1934
+Belo Horizonte,2020-07-12,0
+Fortaleza,2020-07-12,88
+Manaus,2020-07-12,20
+Porto Alegre,2020-07-12,16
+Recife,2020-07-12,242
+Rio de Janeiro,2020-07-12,8
+Salvador,2020-07-12,346
+São Paulo,2020-07-12,1441
+Belo Horizonte,2020-07-13,0
+Fortaleza,2020-07-13,15
+Manaus,2020-07-13,423
+Porto Alegre,2020-07-13,52
+Recife,2020-07-13,83
+Rio de Janeiro,2020-07-13,525
+Salvador,2020-07-13,176
+São Paulo,2020-07-13,1207
+Belo Horizonte,2020-07-14,686
+Fortaleza,2020-07-14,226
+Manaus,2020-07-14,413
+Porto Alegre,2020-07-14,179
+Recife,2020-07-14,120
+Rio de Janeiro,2020-07-14,486
+Salvador,2020-07-14,724
+São Paulo,2020-07-14,4789
+Belo Horizonte,2020-07-15,819
+Fortaleza,2020-07-15,386
+Manaus,2020-07-15,215
+Porto Alegre,2020-07-15,82
+Recife,2020-07-15,239
+Rio de Janeiro,2020-07-15,368
+Salvador,2020-07-15,614
+São Paulo,2020-07-15,1524
+Belo Horizonte,2020-07-16,0
+Fortaleza,2020-07-16,115
+Manaus,2020-07-16,38
+Porto Alegre,2020-07-16,1619
+Recife,2020-07-16,179
+Rio de Janeiro,2020-07-16,82
+Salvador,2020-07-16,863
+São Paulo,2020-07-16,1916
+Belo Horizonte,2020-07-17,108
+Fortaleza,2020-07-17,833
+Manaus,2020-07-17,44
+Porto Alegre,2020-07-17,288
+Recife,2020-07-17,227
+Rio de Janeiro,2020-07-17,125
+Salvador,2020-07-17,533
+São Paulo,2020-07-17,1382
+Belo Horizonte,2020-07-18,1469
+Fortaleza,2020-07-18,0
+Manaus,2020-07-18,744
+Porto Alegre,2020-07-18,32
+Recife,2020-07-18,130
+Rio de Janeiro,2020-07-18,0
+Salvador,2020-07-18,371
+São Paulo,2020-07-18,1470
+Belo Horizonte,2020-07-19,0
+Fortaleza,2020-07-19,239
+Manaus,2020-07-19,133
+Porto Alegre,2020-07-19,157
+Recife,2020-07-19,188
+Rio de Janeiro,2020-07-19,1213
+Salvador,2020-07-19,234
+São Paulo,2020-07-19,979
+Belo Horizonte,2020-07-20,0
+Fortaleza,2020-07-20,-50
+Manaus,2020-07-20,32
+Porto Alegre,2020-07-20,208
+Recife,2020-07-20,151
+Rio de Janeiro,2020-07-20,127
+Salvador,2020-07-20,135
+São Paulo,2020-07-20,275
+Belo Horizonte,2020-07-21,301
+Fortaleza,2020-07-21,350
+Manaus,2020-07-21,184
+Porto Alegre,2020-07-21,183
+Recife,2020-07-21,58
+Rio de Janeiro,2020-07-21,85
+Salvador,2020-07-21,689
+São Paulo,2020-07-21,1453
+Belo Horizonte,2020-07-22,88
+Fortaleza,2020-07-22,211
+Manaus,2020-07-22,53
+Porto Alegre,2020-07-22,116
+Recife,2020-07-22,146
+Rio de Janeiro,2020-07-22,1213
+Salvador,2020-07-22,1377
+São Paulo,2020-07-22,3318
+Belo Horizonte,2020-07-23,962
+Fortaleza,2020-07-23,231
+Manaus,2020-07-23,604
+Porto Alegre,2020-07-23,189
+Recife,2020-07-23,353
+Rio de Janeiro,2020-07-23,176
+Salvador,2020-07-23,1406
+São Paulo,2020-07-23,2591
+Belo Horizonte,2020-07-24,1049
+Fortaleza,2020-07-24,309
+Manaus,2020-07-24,464
+Porto Alegre,2020-07-24,255
+Recife,2020-07-24,276
+Rio de Janeiro,2020-07-24,946
+Salvador,2020-07-24,965
+São Paulo,2020-07-24,2480
+Belo Horizonte,2020-07-25,570
+Fortaleza,2020-07-25,158
+Manaus,2020-07-25,21
+Porto Alegre,2020-07-25,329
+Recife,2020-07-25,288
+Rio de Janeiro,2020-07-25,90
+Salvador,2020-07-25,868
+São Paulo,2020-07-25,2925
+Belo Horizonte,2020-07-26,567
+Fortaleza,2020-07-26,54
+Manaus,2020-07-26,12
+Porto Alegre,2020-07-26,35
+Recife,2020-07-26,311
+Rio de Janeiro,2020-07-26,24
+Salvador,2020-07-26,247
+São Paulo,2020-07-26,662
+Belo Horizonte,2020-07-27,0
+Fortaleza,2020-07-27,49
+Manaus,2020-07-27,504
+Porto Alegre,2020-07-27,16
+Recife,2020-07-27,117
+Rio de Janeiro,2020-07-27,800
+Salvador,2020-07-27,163
+São Paulo,2020-07-27,2250
+Belo Horizonte,2020-07-28,960
+Fortaleza,2020-07-28,405
+Manaus,2020-07-28,350
+Porto Alegre,2020-07-28,89
+Recife,2020-07-28,154
+Rio de Janeiro,2020-07-28,70
+Salvador,2020-07-28,1101
+São Paulo,2020-07-28,3681
+Belo Horizonte,2020-07-29,0
+Fortaleza,2020-07-29,254
+Manaus,2020-07-29,375
+Porto Alegre,2020-07-29,288
+Recife,2020-07-29,266
+Rio de Janeiro,2020-07-29,252
+Salvador,2020-07-29,958
+São Paulo,2020-07-29,3119
+Belo Horizonte,2020-07-30,915
+Fortaleza,2020-07-30,117
+Manaus,2020-07-30,443
+Porto Alegre,2020-07-30,167
+Recife,2020-07-30,203
+Rio de Janeiro,2020-07-30,297
+Salvador,2020-07-30,1020
+São Paulo,2020-07-30,4857
+Belo Horizonte,2020-07-31,1164
+Fortaleza,2020-07-31,-75
+Manaus,2020-07-31,323
+Porto Alegre,2020-07-31,44
+Recife,2020-07-31,225
+Rio de Janeiro,2020-07-31,333
+Salvador,2020-07-31,1243
+São Paulo,2020-07-31,3876
+Belo Horizonte,2020-08-01,0
+Fortaleza,2020-08-01,154
+Manaus,2020-08-01,395
+Porto Alegre,2020-08-01,371
+Recife,2020-08-01,358
+Rio de Janeiro,2020-08-01,470
+Salvador,2020-08-01,509
+São Paulo,2020-08-01,2114
+Belo Horizonte,2020-08-02,0
+Fortaleza,2020-08-02,164
+Manaus,2020-08-02,43
+Porto Alegre,2020-08-02,-5
+Recife,2020-08-02,179
+Rio de Janeiro,2020-08-02,10
+Salvador,2020-08-02,214
+São Paulo,2020-08-02,770
+Belo Horizonte,2020-08-03,318
+Fortaleza,2020-08-03,-27
+Manaus,2020-08-03,22
+Porto Alegre,2020-08-03,50
+Recife,2020-08-03,67
+Rio de Janeiro,2020-08-03,277
+Salvador,2020-08-03,138
+São Paulo,2020-08-03,261
+Belo Horizonte,2020-08-04,0
+Fortaleza,2020-08-04,207
+Manaus,2020-08-04,347
+Porto Alegre,2020-08-04,106
+Recife,2020-08-04,101
+Rio de Janeiro,2020-08-04,643
+Salvador,2020-08-04,802
+São Paulo,2020-08-04,2574
+Belo Horizonte,2020-08-05,0
+Fortaleza,2020-08-05,235
+Manaus,2020-08-05,272
+Porto Alegre,2020-08-05,442
+Recife,2020-08-05,218
+Rio de Janeiro,2020-08-05,674
+Salvador,2020-08-05,1131
+São Paulo,2020-08-05,2823
+Belo Horizonte,2020-08-06,2082
+Fortaleza,2020-08-06,201
+Manaus,2020-08-06,276
+Porto Alegre,2020-08-06,312
+Recife,2020-08-06,162
+Rio de Janeiro,2020-08-06,121
+Salvador,2020-08-06,1043
+São Paulo,2020-08-06,3457
+Belo Horizonte,2020-08-07,1439
+Fortaleza,2020-08-07,535
+Manaus,2020-08-07,271
+Porto Alegre,2020-08-07,41
+Recife,2020-08-07,209
+Rio de Janeiro,2020-08-07,338
+Salvador,2020-08-07,989
+São Paulo,2020-08-07,1910
+Belo Horizonte,2020-08-08,0
+Fortaleza,2020-08-08,427
+Manaus,2020-08-08,49
+Porto Alegre,2020-08-08,354
+Recife,2020-08-08,185
+Rio de Janeiro,2020-08-08,548
+Salvador,2020-08-08,654
+São Paulo,2020-08-08,2038
+Belo Horizonte,2020-08-09,0
+Fortaleza,2020-08-09,17
+Manaus,2020-08-09,312
+Porto Alegre,2020-08-09,18
+Recife,2020-08-09,144
+Rio de Janeiro,2020-08-09,18
+Salvador,2020-08-09,263
+São Paulo,2020-08-09,587
+Belo Horizonte,2020-08-10,981
+Fortaleza,2020-08-10,142
+Manaus,2020-08-10,58
+Porto Alegre,2020-08-10,-1
+Recife,2020-08-10,42
+Rio de Janeiro,2020-08-10,253
+Salvador,2020-08-10,105
+São Paulo,2020-08-10,235
+Belo Horizonte,2020-08-11,0
+Fortaleza,2020-08-11,289
+Manaus,2020-08-11,358
+Porto Alegre,2020-08-11,204
+Recife,2020-08-11,134
+Rio de Janeiro,2020-08-11,1428
+Salvador,2020-08-11,1188
+São Paulo,2020-08-11,2915
+Belo Horizonte,2020-08-12,1344
+Fortaleza,2020-08-12,221
+Manaus,2020-08-12,352
+Porto Alegre,2020-08-12,124
+Recife,2020-08-12,254
+Rio de Janeiro,2020-08-12,1525
+Salvador,2020-08-12,1028
+São Paulo,2020-08-12,6896
+Belo Horizonte,2020-08-13,446
+Fortaleza,2020-08-13,215
+Manaus,2020-08-13,397
+Porto Alegre,2020-08-13,115
+Recife,2020-08-13,192
+Rio de Janeiro,2020-08-13,873
+Salvador,2020-08-13,1099
+São Paulo,2020-08-13,7063
+Belo Horizonte,2020-08-14,599
+Fortaleza,2020-08-14,127
+Manaus,2020-08-14,293
+Porto Alegre,2020-08-14,116
+Recife,2020-08-14,255
+Rio de Janeiro,2020-08-14,1365
+Salvador,2020-08-14,1020
+São Paulo,2020-08-14,2784
+Belo Horizonte,2020-08-15,0
+Fortaleza,2020-08-15,44
+Manaus,2020-08-15,7
+Porto Alegre,2020-08-15,163
+Recife,2020-08-15,272
+Rio de Janeiro,2020-08-15,700
+Salvador,2020-08-15,924
+São Paulo,2020-08-15,1532
+Belo Horizonte,2020-08-16,0
+Fortaleza,2020-08-16,21
+Manaus,2020-08-16,376
+Porto Alegre,2020-08-16,30
+Recife,2020-08-16,184
+Rio de Janeiro,2020-08-16,197
+Salvador,2020-08-16,136
+São Paulo,2020-08-16,347
+Belo Horizonte,2020-08-17,977
+Fortaleza,2020-08-17,48
+Manaus,2020-08-17,143
+Porto Alegre,2020-08-17,57
+Recife,2020-08-17,57
+Rio de Janeiro,2020-08-17,137
+Salvador,2020-08-17,123
+São Paulo,2020-08-17,297
+Belo Horizonte,2020-08-18,187
+Fortaleza,2020-08-18,146
+Manaus,2020-08-18,203
+Porto Alegre,2020-08-18,150
+Recife,2020-08-18,142
+Rio de Janeiro,2020-08-18,1289
+Salvador,2020-08-18,938
+São Paulo,2020-08-18,1771
+Belo Horizonte,2020-08-19,624
+Fortaleza,2020-08-19,137
+Manaus,2020-08-19,284
+Porto Alegre,2020-08-19,264
+Recife,2020-08-19,190
+Rio de Janeiro,2020-08-19,1547
+Salvador,2020-08-19,1012
+São Paulo,2020-08-19,2181
+Belo Horizonte,2020-08-20,417
+Fortaleza,2020-08-20,163
+Manaus,2020-08-20,316
+Porto Alegre,2020-08-20,38
+Recife,2020-08-20,149
+Rio de Janeiro,2020-08-20,753
+Salvador,2020-08-20,1007
+São Paulo,2020-08-20,1649
+Belo Horizonte,2020-08-21,615
+Fortaleza,2020-08-21,74
+Manaus,2020-08-21,94
+Porto Alegre,2020-08-21,65
+Recife,2020-08-21,236
+Rio de Janeiro,2020-08-21,1000
+Salvador,2020-08-21,179
+São Paulo,2020-08-21,825
+Belo Horizonte,2020-08-22,0
+Fortaleza,2020-08-22,60
+Manaus,2020-08-22,313
+Porto Alegre,2020-08-22,322
+Recife,2020-08-22,102
+Rio de Janeiro,2020-08-22,931
+Salvador,2020-08-22,965
+São Paulo,2020-08-22,3903
+Belo Horizonte,2020-08-23,0
+Fortaleza,2020-08-23,62
+Manaus,2020-08-23,66
+Porto Alegre,2020-08-23,17
+Recife,2020-08-23,200
+Rio de Janeiro,2020-08-23,348
+Salvador,2020-08-23,96
+São Paulo,2020-08-23,911
+Belo Horizonte,2020-08-24,176
+Fortaleza,2020-08-24,247
+Manaus,2020-08-24,20
+Porto Alegre,2020-08-24,16
+Recife,2020-08-24,51
+Rio de Janeiro,2020-08-24,397
+Salvador,2020-08-24,22
+São Paulo,2020-08-24,327
+Belo Horizonte,2020-08-25,980
+Fortaleza,2020-08-25,145
+Manaus,2020-08-25,343
+Porto Alegre,2020-08-25,102
+Recife,2020-08-25,102
+Rio de Janeiro,2020-08-25,584
+Salvador,2020-08-25,892
+São Paulo,2020-08-25,2441
+Belo Horizonte,2020-08-26,379
+Fortaleza,2020-08-26,301
+Manaus,2020-08-26,339
+Porto Alegre,2020-08-26,133
+Recife,2020-08-26,181
+Rio de Janeiro,2020-08-26,951
+Salvador,2020-08-26,938
+São Paulo,2020-08-26,1892
+Belo Horizonte,2020-08-27,463
+Fortaleza,2020-08-27,110
+Manaus,2020-08-27,221
+Porto Alegre,2020-08-27,0
+Recife,2020-08-27,151
+Rio de Janeiro,2020-08-27,735
+Salvador,2020-08-27,719
+São Paulo,2020-08-27,2083
+Belo Horizonte,2020-08-28,418
+Fortaleza,2020-08-28,162
+Manaus,2020-08-28,332
+Porto Alegre,2020-08-28,355
+Recife,2020-08-28,168
+Rio de Janeiro,2020-08-28,0
+Salvador,2020-08-28,592
+São Paulo,2020-08-28,2365
+Belo Horizonte,2020-08-29,0
+Fortaleza,2020-08-29,50
+Manaus,2020-08-29,252
+Porto Alegre,2020-08-29,847
+Recife,2020-08-29,252
+Rio de Janeiro,2020-08-29,829
+Salvador,2020-08-29,801
+São Paulo,2020-08-29,0
+Belo Horizonte,2020-08-30,0
+Fortaleza,2020-08-30,58
+Manaus,2020-08-30,52
+Porto Alegre,2020-08-30,5
+Recife,2020-08-30,128
+Rio de Janeiro,2020-08-30,82
+Salvador,2020-08-30,115
+São Paulo,2020-08-30,1267
+Belo Horizonte,2020-08-31,823
+Fortaleza,2020-08-31,67
+Manaus,2020-08-31,48
+Porto Alegre,2020-08-31,608
+Recife,2020-08-31,85
+Rio de Janeiro,2020-08-31,121
+Salvador,2020-08-31,52
+São Paulo,2020-08-31,171
+Belo Horizonte,2020-09-01,113
+Fortaleza,2020-09-01,176
+Manaus,2020-09-01,244
+Porto Alegre,2020-09-01,51
+Recife,2020-09-01,-712
+Rio de Janeiro,2020-09-01,1222
+Salvador,2020-09-01,447
+São Paulo,2020-09-01,3042
+Belo Horizonte,2020-09-02,464
+Fortaleza,2020-09-02,155
+Manaus,2020-09-02,443
+Porto Alegre,2020-09-02,572
+Recife,2020-09-02,158
+Rio de Janeiro,2020-09-02,200
+Salvador,2020-09-02,617
+São Paulo,2020-09-02,1579
+Belo Horizonte,2020-09-03,409
+Fortaleza,2020-09-03,185
+Manaus,2020-09-03,274
+Porto Alegre,2020-09-03,493
+Recife,2020-09-03,148
+Rio de Janeiro,2020-09-03,478
+Salvador,2020-09-03,818
+São Paulo,2020-09-03,2496
+Belo Horizonte,2020-09-04,0
+Fortaleza,2020-09-04,136
+Manaus,2020-09-04,265
+Porto Alegre,2020-09-04,333
+Recife,2020-09-04,139
+Rio de Janeiro,2020-09-04,646
+Salvador,2020-09-04,407
+São Paulo,2020-09-04,1166
+Belo Horizonte,2020-09-05,0
+Fortaleza,2020-09-05,46
+Manaus,2020-09-05,271
+Porto Alegre,2020-09-05,3680
+Recife,2020-09-05,-31
+Rio de Janeiro,2020-09-05,226
+Salvador,2020-09-05,370
+São Paulo,2020-09-05,1245
+Belo Horizonte,2020-09-06,0
+Fortaleza,2020-09-06,13
+Manaus,2020-09-06,38
+Porto Alegre,2020-09-06,23
+Recife,2020-09-06,0
+Rio de Janeiro,2020-09-06,242
+Salvador,2020-09-06,12
+São Paulo,2020-09-06,290
+Belo Horizonte,2020-09-07,1249
+Fortaleza,2020-09-07,22
+Manaus,2020-09-07,22
+Porto Alegre,2020-09-07,5
+Recife,2020-09-07,70
+Rio de Janeiro,2020-09-07,172
+Salvador,2020-09-07,83
+São Paulo,2020-09-07,0
+Belo Horizonte,2020-09-08,0
+Fortaleza,2020-09-08,32
+Manaus,2020-09-08,65
+Porto Alegre,2020-09-08,21
+Recife,2020-09-08,33
+Rio de Janeiro,2020-09-08,247
+Salvador,2020-09-08,46
+São Paulo,2020-09-08,580
+Belo Horizonte,2020-09-09,204
+Fortaleza,2020-09-09,117
+Manaus,2020-09-09,330
+Porto Alegre,2020-09-09,65
+Recife,2020-09-09,143
+Rio de Janeiro,2020-09-09,313
+Salvador,2020-09-09,507
+São Paulo,2020-09-09,1653
+Belo Horizonte,2020-09-10,368
+Fortaleza,2020-09-10,69
+Manaus,2020-09-10,311
+Porto Alegre,2020-09-10,1083
+Recife,2020-09-10,213
+Rio de Janeiro,2020-09-10,684
+Salvador,2020-09-10,503
+São Paulo,2020-09-10,1505
+Belo Horizonte,2020-09-11,497
+Fortaleza,2020-09-11,92
+Manaus,2020-09-11,312
+Porto Alegre,2020-09-11,149
+Recife,2020-09-11,217
+Rio de Janeiro,2020-09-11,112
+Salvador,2020-09-11,452
+São Paulo,2020-09-11,1352
+Belo Horizonte,2020-09-12,0
+Fortaleza,2020-09-12,44
+Manaus,2020-09-12,306
+Porto Alegre,2020-09-12,429
+Recife,2020-09-12,136
+Rio de Janeiro,2020-09-12,182
+Salvador,2020-09-12,397
+São Paulo,2020-09-12,1316
+Belo Horizonte,2020-09-13,0
+Fortaleza,2020-09-13,39
+Manaus,2020-09-13,69
+Porto Alegre,2020-09-13,334
+Recife,2020-09-13,140
+Rio de Janeiro,2020-09-13,147
+Salvador,2020-09-13,40
+São Paulo,2020-09-13,294
+Belo Horizonte,2020-09-14,754
+Fortaleza,2020-09-14,23
+Manaus,2020-09-14,65
+Porto Alegre,2020-09-14,738
+Recife,2020-09-14,100
+Rio de Janeiro,2020-09-14,107
+Salvador,2020-09-14,1
+São Paulo,2020-09-14,273
+Belo Horizonte,2020-09-15,199
+Fortaleza,2020-09-15,94
+Manaus,2020-09-15,448
+Porto Alegre,2020-09-15,282
+Recife,2020-09-15,106
+Rio de Janeiro,2020-09-15,607
+Salvador,2020-09-15,411
+São Paulo,2020-09-15,1501
+Belo Horizonte,2020-09-16,365
+Fortaleza,2020-09-16,106
+Manaus,2020-09-16,327
+Porto Alegre,2020-09-16,248
+Recife,2020-09-16,133
+Rio de Janeiro,2020-09-16,767
+Salvador,2020-09-16,466
+São Paulo,2020-09-16,1442
+Belo Horizonte,2020-09-17,0
+Fortaleza,2020-09-17,106
+Manaus,2020-09-17,368
+Porto Alegre,2020-09-17,639
+Recife,2020-09-17,111
+Rio de Janeiro,2020-09-17,581
+Salvador,2020-09-17,399
+São Paulo,2020-09-17,1510
+Belo Horizonte,2020-09-18,812
+Fortaleza,2020-09-18,118
+Manaus,2020-09-18,507
+Porto Alegre,2020-09-18,382
+Recife,2020-09-18,119
+Rio de Janeiro,2020-09-18,213
+Salvador,2020-09-18,522
+São Paulo,2020-09-18,1581
+Belo Horizonte,2020-09-19,0
+Fortaleza,2020-09-19,65
+Manaus,2020-09-19,373
+Porto Alegre,2020-09-19,472
+Recife,2020-09-19,120
+Rio de Janeiro,2020-09-19,212
+Salvador,2020-09-19,379
+São Paulo,2020-09-19,1443
+Belo Horizonte,2020-09-20,0
+Fortaleza,2020-09-20,83
+Manaus,2020-09-20,75
+Porto Alegre,2020-09-20,430
+Recife,2020-09-20,375
+Rio de Janeiro,2020-09-20,338
+Salvador,2020-09-20,121
+São Paulo,2020-09-20,281
+Belo Horizonte,2020-09-21,362
+Fortaleza,2020-09-21,51
+Manaus,2020-09-21,40
+Porto Alegre,2020-09-21,342
+Recife,2020-09-21,160
+Rio de Janeiro,2020-09-21,97
+Salvador,2020-09-21,40
+São Paulo,2020-09-21,228
+Belo Horizonte,2020-09-22,0
+Fortaleza,2020-09-22,113
+Manaus,2020-09-22,378
+Porto Alegre,2020-09-22,170
+Recife,2020-09-22,113
+Rio de Janeiro,2020-09-22,286
+Salvador,2020-09-22,294
+São Paulo,2020-09-22,1526
+Belo Horizonte,2020-09-23,127
+Fortaleza,2020-09-23,87
+Manaus,2020-09-23,412
+Porto Alegre,2020-09-23,168
+Recife,2020-09-23,63
+Rio de Janeiro,2020-09-23,1028
+Salvador,2020-09-23,282
+São Paulo,2020-09-23,1223
+Belo Horizonte,2020-09-24,71
+Fortaleza,2020-09-24,60
+Manaus,2020-09-24,364
+Porto Alegre,2020-09-24,372
+Recife,2020-09-24,90
+Rio de Janeiro,2020-09-24,309
+Salvador,2020-09-24,496
+São Paulo,2020-09-24,1387
+Belo Horizonte,2020-09-25,1553
+Fortaleza,2020-09-25,2
+Manaus,2020-09-25,484
+Porto Alegre,2020-09-25,298
+Recife,2020-09-25,71
+Rio de Janeiro,2020-09-25,163
+Salvador,2020-09-25,452
+São Paulo,2020-09-25,1219
+Belo Horizonte,2020-09-26,0
+Fortaleza,2020-09-26,65
+Manaus,2020-09-26,660
+Porto Alegre,2020-09-26,319
+Recife,2020-09-26,99
+Rio de Janeiro,2020-09-26,87
+Salvador,2020-09-26,434
+São Paulo,2020-09-26,1104
+Belo Horizonte,2020-09-27,0
+Fortaleza,2020-09-27,36
+Manaus,2020-09-27,62
+Porto Alegre,2020-09-27,240
+Recife,2020-09-27,10
+Rio de Janeiro,2020-09-27,2114
+Salvador,2020-09-27,70
+São Paulo,2020-09-27,123
+Belo Horizonte,2020-09-28,528
+Fortaleza,2020-09-28,1
+Manaus,2020-09-28,57
+Porto Alegre,2020-09-28,33
+Recife,2020-09-28,13
+Rio de Janeiro,2020-09-28,80
+Salvador,2020-09-28,89
+São Paulo,2020-09-28,158
+Belo Horizonte,2020-09-29,124
+Fortaleza,2020-09-29,54
+Manaus,2020-09-29,846
+Porto Alegre,2020-09-29,317
+Recife,2020-09-29,257
+Rio de Janeiro,2020-09-29,183
+Salvador,2020-09-29,164
+São Paulo,2020-09-29,1373
+Belo Horizonte,2020-09-30,493
+Fortaleza,2020-09-30,47
+Manaus,2020-09-30,763
+Porto Alegre,2020-09-30,198
+Recife,2020-09-30,94
+Rio de Janeiro,2020-09-30,207
+Salvador,2020-09-30,200
+São Paulo,2020-09-30,1228
+Belo Horizonte,2020-10-01,162
+Fortaleza,2020-10-01,94
+Manaus,2020-10-01,414
+Porto Alegre,2020-10-01,4074
+Recife,2020-10-01,90
+Rio de Janeiro,2020-10-01,185
+Salvador,2020-10-01,165
+São Paulo,2020-10-01,1143
+Belo Horizonte,2020-10-02,261
+Fortaleza,2020-10-02,43
+Manaus,2020-10-02,592
+Porto Alegre,2020-10-02,1136
+Recife,2020-10-02,102
+Rio de Janeiro,2020-10-02,3177
+Salvador,2020-10-02,150
+São Paulo,2020-10-02,925
+Belo Horizonte,2020-10-03,0
+Fortaleza,2020-10-03,42
+Manaus,2020-10-03,579
+Porto Alegre,2020-10-03,571
+Recife,2020-10-03,61
+Rio de Janeiro,2020-10-03,60
+Salvador,2020-10-03,137
+São Paulo,2020-10-03,1099
+Belo Horizonte,2020-10-04,0
+Fortaleza,2020-10-04,35
+Manaus,2020-10-04,97
+Porto Alegre,2020-10-04,20
+Recife,2020-10-04,7
+Rio de Janeiro,2020-10-04,32
+Salvador,2020-10-04,81
+São Paulo,2020-10-04,0
+Belo Horizonte,2020-10-05,494
+Fortaleza,2020-10-05,2262
+Manaus,2020-10-05,64
+Porto Alegre,2020-10-05,442
+Recife,2020-10-05,-15
+Rio de Janeiro,2020-10-05,1473
+Salvador,2020-10-05,84
+São Paulo,2020-10-05,0
+Belo Horizonte,2020-10-06,0
+Fortaleza,2020-10-06,108
+Manaus,2020-10-06,523
+Porto Alegre,2020-10-06,242
+Recife,2020-10-06,120
+Rio de Janeiro,2020-10-06,1061
+Salvador,2020-10-06,228
+São Paulo,2020-10-06,1359
+Belo Horizonte,2020-10-07,390
+Fortaleza,2020-10-07,133
+Manaus,2020-10-07,398
+Porto Alegre,2020-10-07,372
+Recife,2020-10-07,173
+Rio de Janeiro,2020-10-07,843
+Salvador,2020-10-07,165
+São Paulo,2020-10-07,0
+Belo Horizonte,2020-10-08,0
+Fortaleza,2020-10-08,106
+Manaus,2020-10-08,368
+Porto Alegre,2020-10-08,242
+Recife,2020-10-08,21
+Rio de Janeiro,2020-10-08,655
+Salvador,2020-10-08,227
+São Paulo,2020-10-08,1812
+Belo Horizonte,2020-10-09,584
+Fortaleza,2020-10-09,45
+Manaus,2020-10-09,523
+Porto Alegre,2020-10-09,442
+Recife,2020-10-09,57
+Rio de Janeiro,2020-10-09,804
+Salvador,2020-10-09,208
+São Paulo,2020-10-09,872
+Belo Horizonte,2020-10-10,0
+Fortaleza,2020-10-10,218
+Manaus,2020-10-10,426
+Porto Alegre,2020-10-10,415
+Recife,2020-10-10,102
+Rio de Janeiro,2020-10-10,212
+Salvador,2020-10-10,233
+São Paulo,2020-10-10,1210
+Belo Horizonte,2020-10-11,0
+Fortaleza,2020-10-11,49
+Manaus,2020-10-11,254
+Porto Alegre,2020-10-11,188
+Recife,2020-10-11,52
+Rio de Janeiro,2020-10-11,37
+Salvador,2020-10-11,147
+São Paulo,2020-10-11,418
+Belo Horizonte,2020-10-12,508
+Fortaleza,2020-10-12,42
+Manaus,2020-10-12,-106
+Porto Alegre,2020-10-12,0
+Recife,2020-10-12,10
+Rio de Janeiro,2020-10-12,0
+Salvador,2020-10-12,133
+São Paulo,2020-10-12,116
+Belo Horizonte,2020-10-13,87
+Fortaleza,2020-10-13,26
+Manaus,2020-10-13,135
+Porto Alegre,2020-10-13,367
+Recife,2020-10-13,10
+Rio de Janeiro,2020-10-13,27
+Salvador,2020-10-13,144
+São Paulo,2020-10-13,188
+Belo Horizonte,2020-10-14,134
+Fortaleza,2020-10-14,137
+Manaus,2020-10-14,330
+Porto Alegre,2020-10-14,194
+Recife,2020-10-14,106
+Rio de Janeiro,2020-10-14,96
+Salvador,2020-10-14,249
+São Paulo,2020-10-14,1014
+Belo Horizonte,2020-10-15,264
+Fortaleza,2020-10-15,97
+Manaus,2020-10-15,446
+Porto Alegre,2020-10-15,261
+Recife,2020-10-15,0
+Rio de Janeiro,2020-10-15,91
+Salvador,2020-10-15,233
+São Paulo,2020-10-15,0
+Belo Horizonte,2020-10-16,317
+Fortaleza,2020-10-16,587
+Manaus,2020-10-16,51
+Porto Alegre,2020-10-16,191
+Recife,2020-10-16,0
+Rio de Janeiro,2020-10-16,2043
+Salvador,2020-10-16,225
+São Paulo,2020-10-16,0
+Belo Horizonte,2020-10-17,0
+Fortaleza,2020-10-17,19
+Manaus,2020-10-17,1068
+Porto Alegre,2020-10-17,0
+Recife,2020-10-17,0
+Rio de Janeiro,2020-10-17,96
+Salvador,2020-10-17,213
+São Paulo,2020-10-17,3156
+Belo Horizonte,2020-10-18,0
+Fortaleza,2020-10-18,120
+Manaus,2020-10-18,300
+Porto Alegre,2020-10-18,642
+Recife,2020-10-18,245
+Rio de Janeiro,2020-10-18,91
+Salvador,2020-10-18,64
+São Paulo,2020-10-18,92
+Belo Horizonte,2020-10-19,521
+Fortaleza,2020-10-19,260
+Manaus,2020-10-19,57
+Porto Alegre,2020-10-19,394
+Recife,2020-10-19,24
+Rio de Janeiro,2020-10-19,398
+Salvador,2020-10-19,122
+São Paulo,2020-10-19,0
+Belo Horizonte,2020-10-20,213
+Fortaleza,2020-10-20,90
+Manaus,2020-10-20,475
+Porto Alegre,2020-10-20,103
+Recife,2020-10-20,122
+Rio de Janeiro,2020-10-20,177
+Salvador,2020-10-20,175
+São Paulo,2020-10-20,957
+Belo Horizonte,2020-10-21,311
+Fortaleza,2020-10-21,664
+Manaus,2020-10-21,1233
+Porto Alegre,2020-10-21,458
+Recife,2020-10-21,134
+Rio de Janeiro,2020-10-21,487
+Salvador,2020-10-21,148
+São Paulo,2020-10-21,802
+Belo Horizonte,2020-10-22,225
+Fortaleza,2020-10-22,131
+Manaus,2020-10-22,353
+Porto Alegre,2020-10-22,266
+Recife,2020-10-22,-1
+Rio de Janeiro,2020-10-22,452
+Salvador,2020-10-22,144
+São Paulo,2020-10-22,847
+Belo Horizonte,2020-10-23,0
+Fortaleza,2020-10-23,154
+Manaus,2020-10-23,480
+Porto Alegre,2020-10-23,229
+Recife,2020-10-23,95
+Rio de Janeiro,2020-10-23,422
+Salvador,2020-10-23,220
+São Paulo,2020-10-23,1430
+Belo Horizonte,2020-10-24,0
+Fortaleza,2020-10-24,137
+Manaus,2020-10-24,481
+Porto Alegre,2020-10-24,430
+Recife,2020-10-24,96
+Rio de Janeiro,2020-10-24,564
+Salvador,2020-10-24,214
+São Paulo,2020-10-24,1186
+Belo Horizonte,2020-10-25,0
+Fortaleza,2020-10-25,77
+Manaus,2020-10-25,214
+Porto Alegre,2020-10-25,0
+Recife,2020-10-25,21
+Rio de Janeiro,2020-10-25,0
+Salvador,2020-10-25,122
+São Paulo,2020-10-25,423
+Belo Horizonte,2020-10-26,430
+Fortaleza,2020-10-26,162
+Manaus,2020-10-26,42
+Porto Alegre,2020-10-26,696
+Recife,2020-10-26,9
+Rio de Janeiro,2020-10-26,392
+Salvador,2020-10-26,166
+São Paulo,2020-10-26,185
+Belo Horizonte,2020-10-27,374
+Fortaleza,2020-10-27,164
+Manaus,2020-10-27,490
+Porto Alegre,2020-10-27,58
+Recife,2020-10-27,112
+Rio de Janeiro,2020-10-27,788
+Salvador,2020-10-27,216
+São Paulo,2020-10-27,1331
+Belo Horizonte,2020-10-28,244
+Fortaleza,2020-10-28,198
+Manaus,2020-10-28,418
+Porto Alegre,2020-10-28,126
+Recife,2020-10-28,146
+Rio de Janeiro,2020-10-28,577
+Salvador,2020-10-28,224
+São Paulo,2020-10-28,1088
+Belo Horizonte,2020-10-29,187
+Fortaleza,2020-10-29,175
+Manaus,2020-10-29,499
+Porto Alegre,2020-10-29,717
+Recife,2020-10-29,89
+Rio de Janeiro,2020-10-29,477
+Salvador,2020-10-29,224
+São Paulo,2020-10-29,1289
+Belo Horizonte,2020-10-30,0
+Fortaleza,2020-10-30,159
+Manaus,2020-10-30,433
+Porto Alegre,2020-10-30,536
+Recife,2020-10-30,56
+Rio de Janeiro,2020-10-30,402
+Salvador,2020-10-30,133
+São Paulo,2020-10-30,1256
+Belo Horizonte,2020-10-31,0
+Fortaleza,2020-10-31,182
+Manaus,2020-10-31,120
+Porto Alegre,2020-10-31,17
+Recife,2020-10-31,143
+Rio de Janeiro,2020-10-31,366
+Salvador,2020-10-31,42
+São Paulo,2020-10-31,705
+Belo Horizonte,2020-11-01,0
+Fortaleza,2020-11-01,89
+Manaus,2020-11-01,122
+Porto Alegre,2020-11-01,357
+Recife,2020-11-01,-64
+Rio de Janeiro,2020-11-01,300
+Salvador,2020-11-01,77
+São Paulo,2020-11-01,0
+Belo Horizonte,2020-11-02,0
+Fortaleza,2020-11-02,154
+Manaus,2020-11-02,53
+Porto Alegre,2020-11-02,505
+Recife,2020-11-02,22
+Rio de Janeiro,2020-11-02,92
+Salvador,2020-11-02,45
+São Paulo,2020-11-02,376
+Belo Horizonte,2020-11-03,630
+Fortaleza,2020-11-03,67
+Manaus,2020-11-03,148
+Porto Alegre,2020-11-03,87
+Recife,2020-11-03,13
+Rio de Janeiro,2020-11-03,233
+Salvador,2020-11-03,24
+São Paulo,2020-11-03,187
+Belo Horizonte,2020-11-04,135
+Fortaleza,2020-11-04,259
+Manaus,2020-11-04,387
+Porto Alegre,2020-11-04,539
+Recife,2020-11-04,77
+Rio de Janeiro,2020-11-04,606
+Salvador,2020-11-04,32
+São Paulo,2020-11-04,1000
+Belo Horizonte,2020-11-05,183
+Fortaleza,2020-11-05,420
+Manaus,2020-11-05,249
+Porto Alegre,2020-11-05,318
+Recife,2020-11-05,118
+Rio de Janeiro,2020-11-05,370
+Salvador,2020-11-05,421
+São Paulo,2020-11-05,623
+Belo Horizonte,2020-11-06,148
+Fortaleza,2020-11-06,37
+Manaus,2020-11-06,0
+Porto Alegre,2020-11-06,183
+Recife,2020-11-06,215
+Rio de Janeiro,2020-11-06,896
+Salvador,2020-11-06,332
+São Paulo,2020-11-06,0
+Belo Horizonte,2020-11-07,0
+Fortaleza,2020-11-07,250
+Manaus,2020-11-07,674
+Porto Alegre,2020-11-07,425
+Recife,2020-11-07,-43
+Rio de Janeiro,2020-11-07,459
+Salvador,2020-11-07,137
+São Paulo,2020-11-07,0
+Belo Horizonte,2020-11-08,0
+Fortaleza,2020-11-08,113
+Manaus,2020-11-08,136
+Porto Alegre,2020-11-08,269
+Recife,2020-11-08,52
+Rio de Janeiro,2020-11-08,138
+Salvador,2020-11-08,79
+São Paulo,2020-11-08,0
+Belo Horizonte,2020-11-09,573
+Fortaleza,2020-11-09,284
+Manaus,2020-11-09,62
+Porto Alegre,2020-11-09,399
+Recife,2020-11-09,32
+Rio de Janeiro,2020-11-09,232
+Salvador,2020-11-09,0
+São Paulo,2020-11-09,0
+Belo Horizonte,2020-11-10,61
+Fortaleza,2020-11-10,106
+Manaus,2020-11-10,357
+Porto Alegre,2020-11-10,182
+Recife,2020-11-10,121
+Rio de Janeiro,2020-11-10,754
+Salvador,2020-11-10,397
+São Paulo,2020-11-10,5306
+Belo Horizonte,2020-11-11,0
+Fortaleza,2020-11-11,187
+Manaus,2020-11-11,316
+Porto Alegre,2020-11-11,438
+Recife,2020-11-11,194
+Rio de Janeiro,2020-11-11,593
+Salvador,2020-11-11,274
+São Paulo,2020-11-11,946
+Belo Horizonte,2020-11-12,406
+Fortaleza,2020-11-12,2495
+Manaus,2020-11-12,236
+Porto Alegre,2020-11-12,575
+Recife,2020-11-12,53
+Rio de Janeiro,2020-11-12,1038
+Salvador,2020-11-12,251
+São Paulo,2020-11-12,1777
+Belo Horizonte,2020-11-13,325
+Fortaleza,2020-11-13,720
+Manaus,2020-11-13,170
+Porto Alegre,2020-11-13,410
+Recife,2020-11-13,42
+Rio de Janeiro,2020-11-13,551
+Salvador,2020-11-13,276
+São Paulo,2020-11-13,1768
+Belo Horizonte,2020-11-14,0
+Fortaleza,2020-11-14,292
+Manaus,2020-11-14,322
+Porto Alegre,2020-11-14,369
+Recife,2020-11-14,183
+Rio de Janeiro,2020-11-14,960
+Salvador,2020-11-14,195
+São Paulo,2020-11-14,1313
+Belo Horizonte,2020-11-15,0
+Fortaleza,2020-11-15,1077
+Manaus,2020-11-15,110
+Porto Alegre,2020-11-15,444
+Recife,2020-11-15,-2
+Rio de Janeiro,2020-11-15,268
+Salvador,2020-11-15,126
+São Paulo,2020-11-15,300
+Belo Horizonte,2020-11-16,184
+Fortaleza,2020-11-16,650
+Manaus,2020-11-16,43
+Porto Alegre,2020-11-16,504
+Recife,2020-11-16,261
+Rio de Janeiro,2020-11-16,133
+Salvador,2020-11-16,126
+São Paulo,2020-11-16,187
+Belo Horizonte,2020-11-17,607
+Fortaleza,2020-11-17,502
+Manaus,2020-11-17,492
+Porto Alegre,2020-11-17,204
+Recife,2020-11-17,166
+Rio de Janeiro,2020-11-17,1097
+Salvador,2020-11-17,84
+São Paulo,2020-11-17,2256
+Belo Horizonte,2020-11-18,300
+Fortaleza,2020-11-18,292
+Manaus,2020-11-18,341
+Porto Alegre,2020-11-18,735
+Recife,2020-11-18,200
+Rio de Janeiro,2020-11-18,913
+Salvador,2020-11-18,360
+São Paulo,2020-11-18,1724
+Belo Horizonte,2020-11-19,308
+Fortaleza,2020-11-19,640
+Manaus,2020-11-19,533
+Porto Alegre,2020-11-19,186
+Recife,2020-11-19,156
+Rio de Janeiro,2020-11-19,797
+Salvador,2020-11-19,527
+São Paulo,2020-11-19,1970
+Belo Horizonte,2020-11-20,279
+Fortaleza,2020-11-20,339
+Manaus,2020-11-20,352
+Porto Alegre,2020-11-20,601
+Recife,2020-11-20,163
+Rio de Janeiro,2020-11-20,1004
+Salvador,2020-11-20,324
+São Paulo,2020-11-20,0
+Belo Horizonte,2020-11-21,0
+Fortaleza,2020-11-21,218
+Manaus,2020-11-21,268
+Porto Alegre,2020-11-21,623
+Recife,2020-11-21,273
+Rio de Janeiro,2020-11-21,314
+Salvador,2020-11-21,224
+São Paulo,2020-11-21,3834
+Belo Horizonte,2020-11-22,0
+Fortaleza,2020-11-22,202
+Manaus,2020-11-22,89
+Porto Alegre,2020-11-22,32
+Recife,2020-11-22,78
+Rio de Janeiro,2020-11-22,292
+Salvador,2020-11-22,117
+São Paulo,2020-11-22,498
+Belo Horizonte,2020-11-23,654
+Fortaleza,2020-11-23,863
+Manaus,2020-11-23,47
+Porto Alegre,2020-11-23,0
+Recife,2020-11-23,226
+Rio de Janeiro,2020-11-23,192
+Salvador,2020-11-23,227
+São Paulo,2020-11-23,305
+Belo Horizonte,2020-11-24,135
+Fortaleza,2020-11-24,369
+Manaus,2020-11-24,330
+Porto Alegre,2020-11-24,0
+Recife,2020-11-24,209
+Rio de Janeiro,2020-11-24,916
+Salvador,2020-11-24,183
+São Paulo,2020-11-24,1482
+Belo Horizonte,2020-11-25,245
+Fortaleza,2020-11-25,387
+Manaus,2020-11-25,234
+Porto Alegre,2020-11-25,1457
+Recife,2020-11-25,397
+Rio de Janeiro,2020-11-25,1487
+Salvador,2020-11-25,385
+São Paulo,2020-11-25,2623
+Belo Horizonte,2020-11-26,222
+Fortaleza,2020-11-26,1019
+Manaus,2020-11-26,371
+Porto Alegre,2020-11-26,297
+Recife,2020-11-26,84
+Rio de Janeiro,2020-11-26,838
+Salvador,2020-11-26,225
+São Paulo,2020-11-26,1210
+Belo Horizonte,2020-11-27,288
+Fortaleza,2020-11-27,135
+Manaus,2020-11-27,504
+Porto Alegre,2020-11-27,337
+Recife,2020-11-27,163
+Rio de Janeiro,2020-11-27,419
+Salvador,2020-11-27,235
+São Paulo,2020-11-27,970
+Belo Horizonte,2020-11-28,0
+Fortaleza,2020-11-28,444
+Manaus,2020-11-28,333
+Porto Alegre,2020-11-28,486
+Recife,2020-11-28,395
+Rio de Janeiro,2020-11-28,2100
+Salvador,2020-11-28,731
+São Paulo,2020-11-28,1408
+Belo Horizonte,2020-11-29,0
+Fortaleza,2020-11-29,173
+Manaus,2020-11-29,90
+Porto Alegre,2020-11-29,759
+Recife,2020-11-29,22
+Rio de Janeiro,2020-11-29,450
+Salvador,2020-11-29,264
+São Paulo,2020-11-29,589
+Belo Horizonte,2020-11-30,0
+Fortaleza,2020-11-30,416
+Manaus,2020-11-30,48
+Porto Alegre,2020-11-30,433
+Recife,2020-11-30,202
+Rio de Janeiro,2020-11-30,217
+Salvador,2020-11-30,203
+São Paulo,2020-11-30,290
+Belo Horizonte,2020-12-01,788
+Fortaleza,2020-12-01,134
+Manaus,2020-12-01,526
+Porto Alegre,2020-12-01,313
+Recife,2020-12-01,484
+Rio de Janeiro,2020-12-01,1637
+Salvador,2020-12-01,448
+São Paulo,2020-12-01,2232
+Belo Horizonte,2020-12-02,341
+Fortaleza,2020-12-02,29
+Manaus,2020-12-02,248
+Porto Alegre,2020-12-02,445
+Recife,2020-12-02,228
+Rio de Janeiro,2020-12-02,1367
+Salvador,2020-12-02,441
+São Paulo,2020-12-02,2059
+Belo Horizonte,2020-12-03,285
+Fortaleza,2020-12-03,316
+Manaus,2020-12-03,310
+Porto Alegre,2020-12-03,1025
+Recife,2020-12-03,269
+Rio de Janeiro,2020-12-03,1367
+Salvador,2020-12-03,417
+São Paulo,2020-12-03,2075
+Belo Horizonte,2020-12-04,339
+Fortaleza,2020-12-04,219
+Manaus,2020-12-04,429
+Porto Alegre,2020-12-04,545
+Recife,2020-12-04,150
+Rio de Janeiro,2020-12-04,961
+Salvador,2020-12-04,393
+São Paulo,2020-12-04,2112
+Belo Horizonte,2020-12-05,332
+Fortaleza,2020-12-05,225
+Manaus,2020-12-05,375
+Porto Alegre,2020-12-05,659
+Recife,2020-12-05,180
+Rio de Janeiro,2020-12-05,1007
+Salvador,2020-12-05,294
+São Paulo,2020-12-05,2149
+Belo Horizonte,2020-12-06,246
+Fortaleza,2020-12-06,71
+Manaus,2020-12-06,189
+Porto Alegre,2020-12-06,841
+Recife,2020-12-06,141
+Rio de Janeiro,2020-12-06,294
+Salvador,2020-12-06,607
+São Paulo,2020-12-06,643
+Belo Horizonte,2020-12-07,0
+Fortaleza,2020-12-07,1665
+Manaus,2020-12-07,72
+Porto Alegre,2020-12-07,633
+Recife,2020-12-07,322
+Rio de Janeiro,2020-12-07,148
+Salvador,2020-12-07,181
+São Paulo,2020-12-07,268
+Belo Horizonte,2020-12-08,150
+Fortaleza,2020-12-08,266
+Manaus,2020-12-08,506
+Porto Alegre,2020-12-08,159
+Recife,2020-12-08,293
+Rio de Janeiro,2020-12-08,1122
+Salvador,2020-12-08,282
+São Paulo,2020-12-08,2045
+Belo Horizonte,2020-12-09,0
+Fortaleza,2020-12-09,1168
+Manaus,2020-12-09,147
+Porto Alegre,2020-12-09,124
+Recife,2020-12-09,275
+Rio de Janeiro,2020-12-09,1454
+Salvador,2020-12-09,379
+São Paulo,2020-12-09,2175
+Belo Horizonte,2020-12-10,0
+Fortaleza,2020-12-10,461
+Manaus,2020-12-10,393
+Porto Alegre,2020-12-10,112
+Recife,2020-12-10,285
+Rio de Janeiro,2020-12-10,1467
+Salvador,2020-12-10,439
+São Paulo,2020-12-10,1996
+Belo Horizonte,2020-12-11,842
+Fortaleza,2020-12-11,354
+Manaus,2020-12-11,349
+Porto Alegre,2020-12-11,0
+Recife,2020-12-11,491
+Rio de Janeiro,2020-12-11,1388
+Salvador,2020-12-11,506
+São Paulo,2020-12-11,1954
+Belo Horizonte,2020-12-12,382
+Fortaleza,2020-12-12,0
+Manaus,2020-12-12,62
+Porto Alegre,2020-12-12,245
+Recife,2020-12-12,270
+Rio de Janeiro,2020-12-12,1138
+Salvador,2020-12-12,448
+São Paulo,2020-12-12,1848
+Belo Horizonte,2020-12-13,0
+Fortaleza,2020-12-13,523
+Manaus,2020-12-13,304
+Porto Alegre,2020-12-13,2470
+Recife,2020-12-13,75
+Rio de Janeiro,2020-12-13,131
+Salvador,2020-12-13,188
+São Paulo,2020-12-13,201
+Belo Horizonte,2020-12-14,255
+Fortaleza,2020-12-14,298
+Manaus,2020-12-14,165
+Porto Alegre,2020-12-14,771
+Recife,2020-12-14,76
+Rio de Janeiro,2020-12-14,190
+Salvador,2020-12-14,188
+São Paulo,2020-12-14,290
+Belo Horizonte,2020-12-15,144
+Fortaleza,2020-12-15,1460
+Manaus,2020-12-15,206
+Porto Alegre,2020-12-15,0
+Recife,2020-12-15,195
+Rio de Janeiro,2020-12-15,362
+Salvador,2020-12-15,267
+São Paulo,2020-12-15,916
+Belo Horizonte,2020-12-16,271
+Fortaleza,2020-12-16,230
+Manaus,2020-12-16,450
+Porto Alegre,2020-12-16,795
+Recife,2020-12-16,673
+Rio de Janeiro,2020-12-16,1134
+Salvador,2020-12-16,605
+São Paulo,2020-12-16,0
+Belo Horizonte,2020-12-17,411
+Fortaleza,2020-12-17,354
+Manaus,2020-12-17,357
+Porto Alegre,2020-12-17,885
+Recife,2020-12-17,387
+Rio de Janeiro,2020-12-17,1156
+Salvador,2020-12-17,598
+São Paulo,2020-12-17,4632
+Belo Horizonte,2020-12-18,376
+Fortaleza,2020-12-18,315
+Manaus,2020-12-18,679
+Porto Alegre,2020-12-18,619
+Recife,2020-12-18,261
+Rio de Janeiro,2020-12-18,1251
+Salvador,2020-12-18,551
+São Paulo,2020-12-18,2025
+Belo Horizonte,2020-12-19,354
+Fortaleza,2020-12-19,303
+Manaus,2020-12-19,342
+Porto Alegre,2020-12-19,530
+Recife,2020-12-19,345
+Rio de Janeiro,2020-12-19,955
+Salvador,2020-12-19,413
+São Paulo,2020-12-19,0
+Belo Horizonte,2020-12-20,296
+Fortaleza,2020-12-20,246
+Manaus,2020-12-20,158
+Porto Alegre,2020-12-20,489
+Recife,2020-12-20,14
+Rio de Janeiro,2020-12-20,194
+Salvador,2020-12-20,175
+São Paulo,2020-12-20,2498
+Belo Horizonte,2020-12-21,152
+Fortaleza,2020-12-21,400
+Manaus,2020-12-21,101
+Porto Alegre,2020-12-21,558
+Recife,2020-12-21,262
+Rio de Janeiro,2020-12-21,235
+Salvador,2020-12-21,230
+São Paulo,2020-12-21,730
+Belo Horizonte,2020-12-22,215
+Fortaleza,2020-12-22,194
+Manaus,2020-12-22,657
+Porto Alegre,2020-12-22,641
+Recife,2020-12-22,617
+Rio de Janeiro,2020-12-22,875
+Salvador,2020-12-22,512
+São Paulo,2020-12-22,2351
+Belo Horizonte,2020-12-23,463
+Fortaleza,2020-12-23,178
+Manaus,2020-12-23,434
+Porto Alegre,2020-12-23,-7
+Recife,2020-12-23,544
+Rio de Janeiro,2020-12-23,788
+Salvador,2020-12-23,460
+São Paulo,2020-12-23,0
+Belo Horizonte,2020-12-24,370
+Fortaleza,2020-12-24,168
+Manaus,2020-12-24,581
+Porto Alegre,2020-12-24,1272
+Recife,2020-12-24,310
+Rio de Janeiro,2020-12-24,1384
+Salvador,2020-12-24,414
+São Paulo,2020-12-24,4711
+Belo Horizonte,2020-12-25,292
+Fortaleza,2020-12-25,44
+Manaus,2020-12-25,188
+Porto Alegre,2020-12-25,364
+Recife,2020-12-25,253
+Rio de Janeiro,2020-12-25,504
+Salvador,2020-12-25,280
+São Paulo,2020-12-25,0
+Belo Horizonte,2020-12-26,236
+Fortaleza,2020-12-26,38
+Manaus,2020-12-26,89
+Porto Alegre,2020-12-26,921
+Recife,2020-12-26,165
+Rio de Janeiro,2020-12-26,173
+Salvador,2020-12-26,213
+São Paulo,2020-12-26,0
+Belo Horizonte,2020-12-27,181
+Fortaleza,2020-12-27,89
+Manaus,2020-12-27,243
+Porto Alegre,2020-12-27,7
+Recife,2020-12-27,391
+Rio de Janeiro,2020-12-27,461
+Salvador,2020-12-27,188
+São Paulo,2020-12-27,2095
+Belo Horizonte,2020-12-28,254
+Fortaleza,2020-12-28,1327
+Manaus,2020-12-28,153
+Porto Alegre,2020-12-28,8
+Recife,2020-12-28,308
+Rio de Janeiro,2020-12-28,188
+Salvador,2020-12-28,155
+São Paulo,2020-12-28,484
+Belo Horizonte,2020-12-29,225
+Fortaleza,2020-12-29,517
+Manaus,2020-12-29,908
+Porto Alegre,2020-12-29,478
+Recife,2020-12-29,537
+Rio de Janeiro,2020-12-29,1581
+Salvador,2020-12-29,506
+São Paulo,2020-12-29,3445
+Belo Horizonte,2020-12-30,461
+Fortaleza,2020-12-30,605
+Manaus,2020-12-30,833
+Porto Alegre,2020-12-30,572
+Recife,2020-12-30,679
+Rio de Janeiro,2020-12-30,2010
+Salvador,2020-12-30,445
+São Paulo,2020-12-30,0
+Belo Horizonte,2020-12-31,604
+Fortaleza,2020-12-31,1189
+Manaus,2020-12-31,965
+Porto Alegre,2020-12-31,642
+Recife,2020-12-31,583
+Rio de Janeiro,2020-12-31,297
+Salvador,2020-12-31,613
+São Paulo,2020-12-31,5872
+Belo Horizonte,2021-01-01,497
+Fortaleza,2021-01-01,207
+Manaus,2021-01-01,457
+Porto Alegre,2021-01-01,309
+Recife,2021-01-01,287
+Rio de Janeiro,2021-01-01,79
+Salvador,2021-01-01,266
+São Paulo,2021-01-01,0
+Belo Horizonte,2021-01-02,0
+Fortaleza,2021-01-02,48
+Manaus,2021-01-02,136
+Porto Alegre,2021-01-02,321
+Recife,2021-01-02,158
+Rio de Janeiro,2021-01-02,5
+Salvador,2021-01-02,128
+São Paulo,2021-01-02,0
+Belo Horizonte,2021-01-03,0
+Fortaleza,2021-01-03,69
+Manaus,2021-01-03,375
+Porto Alegre,2021-01-03,650
+Recife,2021-01-03,0
+Rio de Janeiro,2021-01-03,26
+Salvador,2021-01-03,53
+São Paulo,2021-01-03,2307
+Belo Horizonte,2021-01-04,0
+Fortaleza,2021-01-04,29
+Manaus,2021-01-04,254
+Porto Alegre,2021-01-04,5
+Recife,2021-01-04,254
+Rio de Janeiro,2021-01-04,2669
+Salvador,2021-01-04,99
+São Paulo,2021-01-04,551
+Belo Horizonte,2021-01-05,1143
+Fortaleza,2021-01-05,1140
+Manaus,2021-01-05,870
+Porto Alegre,2021-01-05,449
+Recife,2021-01-05,350
+Rio de Janeiro,2021-01-05,1514
+Salvador,2021-01-05,634
+São Paulo,2021-01-05,2981
+Belo Horizonte,2021-01-06,611
+Fortaleza,2021-01-06,676
+Manaus,2021-01-06,1418
+Porto Alegre,2021-01-06,100
+Recife,2021-01-06,214
+Rio de Janeiro,2021-01-06,1264
+Salvador,2021-01-06,545
+São Paulo,2021-01-06,0
+Belo Horizonte,2021-01-07,707
+Fortaleza,2021-01-07,917
+Manaus,2021-01-07,1000
+Porto Alegre,2021-01-07,250
+Recife,2021-01-07,444
+Rio de Janeiro,2021-01-07,1207
+Salvador,2021-01-07,586
+São Paulo,2021-01-07,6335
+Belo Horizonte,2021-01-08,1068
+Fortaleza,2021-01-08,616
+Manaus,2021-01-08,1261
+Porto Alegre,2021-01-08,707
+Recife,2021-01-08,129
+Rio de Janeiro,2021-01-08,1156
+Salvador,2021-01-08,526
+São Paulo,2021-01-08,3329
+Belo Horizonte,2021-01-09,1297
+Fortaleza,2021-01-09,295
+Manaus,2021-01-09,1120
+Porto Alegre,2021-01-09,521
+Recife,2021-01-09,141
+Rio de Janeiro,2021-01-09,292
+Salvador,2021-01-09,488
+São Paulo,2021-01-09,0
+Belo Horizonte,2021-01-10,0
+Fortaleza,2021-01-10,143
+Manaus,2021-01-10,461
+Porto Alegre,2021-01-10,587
+Recife,2021-01-10,360
+Rio de Janeiro,2021-01-10,863
+Salvador,2021-01-10,257
+São Paulo,2021-01-10,3718
+Belo Horizonte,2021-01-11,0
+Fortaleza,2021-01-11,100
+Manaus,2021-01-11,429
+Porto Alegre,2021-01-11,389
+Recife,2021-01-11,95
+Rio de Janeiro,2021-01-11,193
+Salvador,2021-01-11,119
+São Paulo,2021-01-11,675
+Belo Horizonte,2021-01-12,2010
+Fortaleza,2021-01-12,942
+Manaus,2021-01-12,1045
+Porto Alegre,2021-01-12,249
+Recife,2021-01-12,406
+Rio de Janeiro,2021-01-12,1105
+Salvador,2021-01-12,302
+São Paulo,2021-01-12,2638
+Belo Horizonte,2021-01-13,1023
+Fortaleza,2021-01-13,531
+Manaus,2021-01-13,417
+Porto Alegre,2021-01-13,296
+Recife,2021-01-13,342
+Rio de Janeiro,2021-01-13,969
+Salvador,2021-01-13,576
+São Paulo,2021-01-13,0
+Belo Horizonte,2021-01-14,0
+Fortaleza,2021-01-14,660
+Manaus,2021-01-14,2516
+Porto Alegre,2021-01-14,293
+Recife,2021-01-14,251
+Rio de Janeiro,2021-01-14,0
+Salvador,2021-01-14,2116
+São Paulo,2021-01-14,6450
+Belo Horizonte,2021-01-15,0
+Fortaleza,2021-01-15,458
+Manaus,2021-01-15,1730
+Porto Alegre,2021-01-15,615
+Recife,2021-01-15,289
+Rio de Janeiro,2021-01-15,0
+Salvador,2021-01-15,970
+São Paulo,2021-01-15,3466
+Belo Horizonte,2021-01-16,0
+Fortaleza,2021-01-16,772
+Manaus,2021-01-16,1824
+Porto Alegre,2021-01-16,0
+Recife,2021-01-16,146
+Rio de Janeiro,2021-01-16,3057
+Salvador,2021-01-16,797
+São Paulo,2021-01-16,0
+Belo Horizonte,2021-01-17,0
+Fortaleza,2021-01-17,0
+Manaus,2021-01-17,862
+Porto Alegre,2021-01-17,1042
+Recife,2021-01-17,193
+Rio de Janeiro,2021-01-17,310
+Salvador,2021-01-17,553
+São Paulo,2021-01-17,4201
+Belo Horizonte,2021-01-18,0
+Fortaleza,2021-01-18,865
+Manaus,2021-01-18,654
+Porto Alegre,2021-01-18,273
+Recife,2021-01-18,93
+Rio de Janeiro,2021-01-18,167
+Salvador,2021-01-18,233
+São Paulo,2021-01-18,642
+Belo Horizonte,2021-01-19,0
+Fortaleza,2021-01-19,297
+Manaus,2021-01-19,453
+Porto Alegre,2021-01-19,258
+Recife,2021-01-19,229
+Rio de Janeiro,2021-01-19,1029
+Salvador,2021-01-19,409
+São Paulo,2021-01-19,0
+Belo Horizonte,2021-01-20,0
+Fortaleza,2021-01-20,734
+Manaus,2021-01-20,3632
+Porto Alegre,2021-01-20,241
+Recife,2021-01-20,255
+Rio de Janeiro,2021-01-20,1048
+Salvador,2021-01-20,512
+São Paulo,2021-01-20,0
+Belo Horizonte,2021-01-21,0
+Fortaleza,2021-01-21,628
+Manaus,2021-01-21,655
+Porto Alegre,2021-01-21,709
+Recife,2021-01-21,386
+Rio de Janeiro,2021-01-21,681
+Salvador,2021-01-21,660
+São Paulo,2021-01-21,9733
+Belo Horizonte,2021-01-22,0
+Fortaleza,2021-01-22,526
+Manaus,2021-01-22,2919
+Porto Alegre,2021-01-22,377
+Recife,2021-01-22,404
+Rio de Janeiro,2021-01-22,482
+Salvador,2021-01-22,601
+São Paulo,2021-01-22,1716
+Belo Horizonte,2021-01-23,10408
+Fortaleza,2021-01-23,413
+Manaus,2021-01-23,2315
+Porto Alegre,2021-01-23,67
+Recife,2021-01-23,107
+Rio de Janeiro,2021-01-23,1098
+Salvador,2021-01-23,926
+São Paulo,2021-01-23,0
+Belo Horizonte,2021-01-24,0
+Fortaleza,2021-01-24,627
+Manaus,2021-01-24,618
+Porto Alegre,2021-01-24,224
+Recife,2021-01-24,100
+Rio de Janeiro,2021-01-24,252
+Salvador,2021-01-24,568
+São Paulo,2021-01-24,3895
+Belo Horizonte,2021-01-25,1060
+Fortaleza,2021-01-25,651
+Manaus,2021-01-25,1050
+Porto Alegre,2021-01-25,198
+Recife,2021-01-25,222
+Rio de Janeiro,2021-01-25,131
+Salvador,2021-01-25,365
+São Paulo,2021-01-25,545
+Belo Horizonte,2021-01-26,835
+Fortaleza,2021-01-26,514
+Manaus,2021-01-26,1664
+Porto Alegre,2021-01-26,98
+Recife,2021-01-26,415
+Rio de Janeiro,2021-01-26,884
+Salvador,2021-01-26,621
+São Paulo,2021-01-26,0
+Belo Horizonte,2021-01-27,1565
+Fortaleza,2021-01-27,257
+Manaus,2021-01-27,1995
+Porto Alegre,2021-01-27,267
+Recife,2021-01-27,476
+Rio de Janeiro,2021-01-27,785
+Salvador,2021-01-27,657
+São Paulo,2021-01-27,0
+Belo Horizonte,2021-01-28,1355
+Fortaleza,2021-01-28,692
+Manaus,2021-01-28,800
+Porto Alegre,2021-01-28,235
+Recife,2021-01-28,293
+Rio de Janeiro,2021-01-28,994
+Salvador,2021-01-28,792
+São Paulo,2021-01-28,0
+Belo Horizonte,2021-01-29,0
+Fortaleza,2021-01-29,463
+Manaus,2021-01-29,1041
+Porto Alegre,2021-01-29,257
+Recife,2021-01-29,327
+Rio de Janeiro,2021-01-29,788
+Salvador,2021-01-29,785
+São Paulo,2021-01-29,11272
+Belo Horizonte,2021-01-30,2207
+Fortaleza,2021-01-30,0
+Manaus,2021-01-30,3315
+Porto Alegre,2021-01-30,0
+Recife,2021-01-30,672
+Rio de Janeiro,2021-01-30,706
+Salvador,2021-01-30,781
+São Paulo,2021-01-30,0
+Belo Horizonte,2021-01-31,838
+Fortaleza,2021-01-31,1652
+Manaus,2021-01-31,656
+Porto Alegre,2021-01-31,0
+Recife,2021-01-31,394
+Rio de Janeiro,2021-01-31,166
+Salvador,2021-01-31,415
+São Paulo,2021-01-31,0
+Belo Horizonte,2021-02-01,210
+Fortaleza,2021-02-01,564
+Manaus,2021-02-01,0
+Porto Alegre,2021-02-01,757
+Recife,2021-02-01,331
+Rio de Janeiro,2021-02-01,111
+Salvador,2021-02-01,179
+São Paulo,2021-02-01,0
+Belo Horizonte,2021-02-02,0
+Fortaleza,2021-02-02,0
+Manaus,2021-02-02,2070
+Porto Alegre,2021-02-02,0
+Recife,2021-02-02,306
+Rio de Janeiro,2021-02-02,569
+Salvador,2021-02-02,557
+São Paulo,2021-02-02,0
+Belo Horizonte,2021-02-03,270
+Fortaleza,2021-02-03,1624
+Manaus,2021-02-03,1440
+Porto Alegre,2021-02-03,0
+Recife,2021-02-03,468
+Rio de Janeiro,2021-02-03,648
+Salvador,2021-02-03,682
+São Paulo,2021-02-03,0
+Belo Horizonte,2021-02-04,2073
+Fortaleza,2021-02-04,0
+Manaus,2021-02-04,0
+Porto Alegre,2021-02-04,0
+Recife,2021-02-04,0
+Rio de Janeiro,2021-02-04,0
+Salvador,2021-02-04,0
+São Paulo,2021-02-04,0

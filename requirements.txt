@@ -2,3 +2,6 @@ jupyter
 pandas
 numpy
 requests
+folium
+geopandas
+geopy

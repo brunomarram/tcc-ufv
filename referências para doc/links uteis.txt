@@ -1,2 +1,16 @@
 Dados coletados sobre a COVID-19:
 https://brasil.io/dataset/covid19/boletim/?search=RJ&date=&state=
+
+API de coleta:
+https://developer.twitter.com/en/docs
+
+Dados geolocalizados:
+Cinnecta
+
+Dados inicais sobre a covid-19:
+https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/vigilancia_em_saude/doencas_e_agravos/coronavirus/index.php?p=295572
+
+Referência de Stopwords utilizadas:
+https://gist.github.com/alopes/5358189
+
+Demais bibliotecas python utilizadas consta no requirements.txt
